@@ -26,6 +26,4 @@ test("create lead-conversion", async ({ salesforce }) => {
   await salesforcePages.newLeadFormPage.selectLeadStatus(leadUser.leadStatus);
 
   await salesforcePages.newLeadFormPage.clickSave();
-
-  await salesforcePage.pause();
 });

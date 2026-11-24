@@ -20,5 +20,4 @@ test("open lead", async ({ salesforce }) => {
     salesforcePage.getByText("Your lead has been converted"),
   ).toBeVisible();
 
-  await salesforcePage.pause();
 });
