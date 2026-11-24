@@ -1300,10 +1300,10 @@
     },
     {
       "name": "_session_id",
-      "value": "998bfac5d4c9728e1da62e523d7d6698",
+      "value": "ec9df3220fd32c249942a3544de7125b",
       "domain": "trailhead.salesforce.com",
       "path": "/",
-      "expires": 1795530424.369232,
+      "expires": 1795537190.815379,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
