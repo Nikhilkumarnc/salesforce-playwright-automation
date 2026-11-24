@@ -1,0 +1,24 @@
+{
+  "name": "playwright-typescript-saas-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login-setup": "npx playwright test tests/ui/login-to-get-state.spec.ts",
+    "login": "npx playwright test tests/ui/login.spec.ts",
+    "create-playground": "npx playwright test tests/ui/create-playground.spec.ts",
+    "create-lead": "npx playwright test tests/ui/create-lead.spec.ts",
+    "convert-lead": "npx playwright test tests/ui/convert-lead.spec.ts",
+    "create-task": "npx playwright test tests/ui/create-task.spec.ts",
+    "complete-task": "npx playwright test tests/ui/complete-task.spec.ts",
+    "manage-opportunity": "npx playwright test tests/ui/opportunity-management.spec.ts",
+    "all-tests": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}

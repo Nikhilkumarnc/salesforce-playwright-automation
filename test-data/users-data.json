@@ -1,0 +1,95 @@
+{
+  "leads": {
+    "userJames": {
+      "salutation": "Mr.",
+      "firstName": "James",
+      "lastName": "Smith",
+      "company": "James Smith Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "nikhilkumar.temp@gmail.com",
+      "industry": "Technology"
+    },
+    "userJohn": {
+      "firstName": "John",
+      "lastName": "Johnson",
+      "company": "John Johnson Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "john.johnson002@example.com",
+      "industry": "Technology"
+    },
+    "userMichael": {
+      "firstName": "Michael",
+      "lastName": "Williams",
+      "company": "Michael Williams Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "michael.williams003@example.com",
+      "industry": "Technology"
+    },
+    "userDavid": {
+      "firstName": "David",
+      "lastName": "Brown",
+      "company": "David Brown Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "david.brown004@example.com",
+      "industry": "Technology"
+    },
+    "userRobert": {
+      "firstName": "Robert",
+      "lastName": "Jones",
+      "company": "Robert Jones Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "robert.jones005@example.com",
+      "industry": "Technology"
+    },
+    "userWilliam": {
+      "firstName": "William",
+      "lastName": "Garcia",
+      "company": "William Garcia Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "william.garcia006@example.com",
+      "industry": "Technology"
+    },
+    "userRichard": {
+      "firstName": "Richard",
+      "lastName": "Miller",
+      "company": "Richard Miller Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "richard.miller007@example.com",
+      "industry": "Technology"
+    },
+    "userJoseph": {
+      "firstName": "Joseph",
+      "lastName": "Davis",
+      "company": "Joseph Davis Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "joseph.davis008@example.com",
+      "industry": "Technology"
+    },
+    "userThomas": {
+      "firstName": "Thomas",
+      "lastName": "Rodriguez",
+      "company": "Thomas Rodriguez Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "thomas.rodriguez009@example.com",
+      "industry": "Technology"
+    },
+    "userChristopher": {
+      "firstName": "Christopher",
+      "lastName": "Wilson",
+      "company": "Christopher Wilson Ltd",
+      "leadStatus": "Open - Not Contacted",
+      "leadSource": "Web",
+      "email": "christopher.wilson010@example.com",
+      "industry": "Technology"
+    }
+  }
+}

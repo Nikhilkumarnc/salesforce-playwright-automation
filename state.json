@@ -1,0 +1,1555 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwiMDUZyNvK7mIEi6kGNQhep5S5nAS0AHSH5NpCxh7k7p_fctpyztpud2M9R8zZLqje0jJe-8DlZ-K90eJ8",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1810636199.651045,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "e11c26b4-4522-4faf-9bf7-afe7ffda8d37|1793100401",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1824637957.704,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did",
+      "value": "8xLG0k5uGn3QJAoS",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1824636403.103,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "didts",
+      "value": "1793100402",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1824636403.103,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "nnls",
+      "value": "",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1798284403.103,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CAA=",
+      "domain": ".pippio.com",
+      "path": "/",
+      "expires": 1800268178.534676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "value": "MVQLOKEI-1A-5KWD",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1826715945.255057,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MVQLOKEI-1A-5KWD",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1824678375.23,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1800918375.23,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|q90bjdKwl7W/iaR4Px58bxl/KatKrMmBcAPUnrjDCWYPHHjUhcZfJmzOIQuBkCrPmhQk1YBvqS8wHTRO1/p4iGlty70eE65yR164mUDQhphJnKuoXdYGNoY4GAQZsygPiXkAdSIeBg/XbR5xM2F+PqyvUfbOD0gmDdXum8mCaNJfsrj/H5XGSL0BfMI+7AFEhEtZT8gQU1NA19Uy18rCHHyAeYcmRhQqDMxk72OwxoKma+WVcS1g3g==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1824678375.229,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "b815e12b-2250-4722-b68e-0074756a3c11",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1826715945.432187,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "DT",
+      "value": "DI1gWznooCIR4Ccz7vXshI4ZQ",
+      "domain": "tbid.digital.salesforce.com",
+      "path": "/",
+      "expires": 1827660327.496,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "proximity_61720a0b138bb700c93b6e761cf8b089",
+      "value": "eyJ6aXAiOiJERUYiLCJwMnMiOiJXLUJsd0d6RzJEa1Rndk0zQkh5TXNnIiwicDJjIjoxMDAwLCJ2ZXIiOiIxIiwiZW5jIjoiQTI1NkdDTSIsImFsZyI6IlBCRVMyLUhTNTEyK0EyNTZLVyJ9.B2Uk_NUUY5-eLbxCCbOcIaCt0BqVxxL9wMX1jjzkrErQMWkcDvxwGw.fgh2wdHiQe1H8Ioa.y_t66dV66F7sWQugL9OI0DxniqcS3P0U-TEYNRap6s2IWeaIt00Fs9UFAVftJrfyP4E-PLpWpdClPKBpLIKIU0hFfBpS46xRSPnyMK6J6dyD-bPgVXWIRxfCEDGDqk1KXgQ40W-YLnbozdFGlJMP15YD59lkhNQQQw3pUrqsctxwQA.0GMllwKuPycO1dj96bDdHg",
+      "domain": "tbid.digital.salesforce.com",
+      "path": "/",
+      "expires": 1826695679.028616,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "th_visitor_id",
+      "value": "5d2127a8-3ae1-49cf-81b9-3446497dd440",
+      "domain": "trailhead.salesforce.com",
+      "path": "/",
+      "expires": 1827660394.864,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_twpid",
+      "value": "tw.1793100400844.175836953183013182",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1826796400.85,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pi",
+      "value": "3520816376271863850",
+      "domain": ".ml314.com",
+      "path": "/",
+      "expires": 1826715945.170739,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "auCKcRdaRCcAOlMIAeclBgAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1826715945.167227,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "5348",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1800876401.666,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "5348",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1802955945.167323,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mako_uid",
+      "value": "1a17d1cd028-6b3b000001085fce",
+      "domain": ".eyeota.net",
+      "path": "/",
+      "expires": 1824636403.11,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "value": "4213372965851648295026",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1802955945.267423,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ktcid",
+      "value": "86b68e76-aee8-0790-5d9e-865d6bc776ad",
+      "domain": ".kargo.com",
+      "path": "/",
+      "expires": 1826695677.70112,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_marketing",
+      "value": "v1%3A179310040092220725",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1827660401.401,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id_ads",
+      "value": "v1%3A179310040092220725",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1827660401.402,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_ngGhN7vY1huNxecrmK1DvQ==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1827660401.402,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guest_id",
+      "value": "v1%3A179310040092220725",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1827660401.402,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "0f9338ee-6c45-4b0e-a7d9-aea828fde0e5",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1803047017.947588,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&65537e59-a980-4be7-8fbe-d83aeff2d00f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1826807017.947884,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202610271126408c540bb4-0761-4cd9-8090-1543ce3856f6AQHwx9Usv5oygghkNR4ln9RDlO8z853z\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1824636400.943,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_gid",
+      "value": "rtbh-7423ac1b-3dff-4141-9a97-5d8b4d4b8cc6-tuct11da0ff1",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1826713812.957744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "rtbh-7423ac1b-3dff-4141-9a97-5d8b4d4b8cc6-tuct11da0ff1",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1824678375.552,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".d.adroll.com",
+      "path": "/",
+      "expires": 1827270374.929,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adroll.com",
+      "path": "/",
+      "expires": 1827270374.929,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1793100401155",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1800363945.189057,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "4a9429b3-74f7-42ce-96f4-fa228c424699",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1800363945.189211,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1793100401",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1824636401.749,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1793100401",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1824636402.28,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "129a2e38-5b6d-4370-826f-170d43b1e895",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1824636402.28,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OTP",
+      "value": "tHAeQv4Fnpy-rwg91XFqQOwAVfPSGMgd6wBwHKdxAio",
+      "domain": ".onetag-sys.com",
+      "path": "/",
+      "expires": 1829364511.206163,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc_ads",
+      "value": "1aa843ab-635a-4384-850c-5b1cfe30d810",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1827660401.417,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pid",
+      "value": "4905031418079252160",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1800876401.556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TestIfCookieP",
+      "value": "ok",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1827314801.556,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csync",
+      "value": "187:NDZiMGI5ZjU4MGFmZjIzMDEzMWFlMjcwZjAxNWEyZjI",
+      "domain": ".smartadserver.com",
+      "path": "/",
+      "expires": 1797771945.208392,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "tdz80lK6jU33Rp4mujgbhWhYo0EsM5N5iNHRxSaNuMjnTrnbtoHVEOJvG670dRG8nMNTnwnFdn8aZ9FXaFQLUKQNIfsFLhDts-3ZgEVJD-0.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1800918375.405,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "6468385488980515749",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1802955945.389234,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sfdcConsent",
+      "value": "1%2C3%2C4",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1826819979,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "floodlightSessionId",
+      "value": "3876013559",
+      "domain": "trailhead.salesforce.com",
+      "path": "/",
+      "expires": 1796133173,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".d.adroll.com",
+      "path": "/",
+      "expires": 1829399018.021958,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adroll.com",
+      "path": "/",
+      "expires": 1829399018.022024,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "__adroll_fpc",
+      "value": "611ab06fe1370c0e2775696aaad1e0a6-1793714219176",
+      "domain": ".trailhead.salesforce.com",
+      "path": "/",
+      "expires": 1826828618,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MVQLOKEI-1A-5KWD",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1826715945.255108,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1802955945.255212,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "XANDR_PANID",
+      "value": "tdz80lK6jU33Rp4mujgbhWhYo0EsM5N5iNHRxSaNuMjnTrnbtoHVEOJvG670dRG8nMNTnwnFdn8aZ9FXaFQLUKQNIfsFLhDts-3ZgEVJD-0.",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1802955945.389084,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "rtbh-7423ac1b-3dff-4141-9a97-5d8b4d4b8cc6-tuct11da0ff1",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1826713812.95784,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1421606609.1793714221",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1801490221,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cs_c",
+      "value": "1",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1827878932,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "optimizelyEndUserId",
+      "value": "oeu1793714993174r0.29720569833235866",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1809266993,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$session_state",
+      "value": "{\"lastSessionTimestamp\":1793714993177,\"sessionId\":\"5b34b4b2-ffdd-4f14-bbfa-53ef4519d7d4\"}",
+      "domain": "a10681260716.cdn.optimizely.com",
+      "path": "/",
+      "expires": 1809266993.443802,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "v0",
+      "value": "Typed%2FBookmarked",
+      "domain": ".www.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "converting",
+      "value": "https://www.salesforce.com/trailblazer/passkey/enroll",
+      "domain": ".www.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_gbd",
+      "value": "salesforce.com",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webact",
+      "value": "%7B%22l_vdays%22%3A-1%2C%22l_visit%22%3A1793714992712%2C%22session%22%3A1793714992712%2C%22l_dtype%22%3A%22Typed%2FBookmarked%22%2C%22l_page%22%3A%22SFDC%3Aus%3Apasskey%3Aenroll%22%2C%22counter%22%3A0%2C%22pv%22%3A1%2C%22f_visit%22%3A1793714992712%2C%22d%22%3A%227010M000002Mw7O%22%2C%22seg%22%3A%22non-customer%3Aus%22%7D",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1825250995,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "c40",
+      "value": "Typed%2FBookmarked",
+      "domain": ".www.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "brwsr",
+      "value": "3e8c244d-d790-11f1-9a81-8f6d173b8322",
+      "domain": ".pxf.io",
+      "path": "/",
+      "expires": 1825250995.445683,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "irld",
+      "value": "LVTOyLR3a21ieSUZzIjQu-SVwySUxVx0MyRzkTAYQ-NwKIUqw",
+      "domain": "salesforce.pxf.io",
+      "path": "/",
+      "expires": 1809266995.44576,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IR_54933",
+      "value": "1793714995448%7C0%7C1793714995448%7C%7C",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_PI",
+      "value": "3e8c244d-d790-11f1-9a81-8f6d173b8322%7C1793801395450",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1825250995,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "brwsr",
+      "value": "3ec905f9-d790-11f1-8f68-afcfffd37023",
+      "domain": ".ojrq.net",
+      "path": "/",
+      "expires": 1825250995.83953,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "5818756d-4be4-410f-a6f4-82269964469a",
+      "domain": ".company-target.com",
+      "path": "/",
+      "expires": 1827929395.866171,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1793714995",
+      "domain": ".company-target.com",
+      "path": "/",
+      "expires": 1827929395.866243,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_1571",
+      "value": "24048-1c64f270-6c15-436b-bd53-9043d7c88e6d&KRTB&24062-1c64f270-6c15-436b-bd53-9043d7c88e6d&KRTB&24063-1c64f270-6c15-436b-bd53-9043d7c88e6d&KRTB&24070-1c64f270-6c15-436b-bd53-9043d7c88e6d",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1796306995.955938,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tvid",
+      "value": "e0280bc70b0747b8a3ad90e7030d9ff9",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1825271896.661272,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tv_UIDM",
+      "value": "1c64f270-6c15-436b-bd53-9043d7c88e6d",
+      "domain": ".tremorhub.com",
+      "path": "/",
+      "expires": 1828274996.661445,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1408792461.1793714221",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1829737813.512084,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ad-id",
+      "value": "A8TvwUR6c0xooAr-8XlwUYk",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1814447774.183368,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1828358174.183613,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBHrr6WoCEBKvE5SQ9CMyedpCPgtAnDUFEgEBAQE862rzalkZyyMA_eMDAA&S=AQAAAru2BG_YngppjSaf9PL4Yag",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1825272667.660209,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDSYNC",
+      "value": "19cg~2z52",
+      "domain": ".analytics.yahoo.com",
+      "path": "/",
+      "expires": 1825251067.660126,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-6fd4c743-22cb-4234-6dc1-4e1811a897ac.Gp5xaTB7Qj6osdlb%2FaxR2jsTaIV23h7pQUr1ahlux5g",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1825257014.419857,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-6fd4c743-22cb-4234-6dc1-4e1811a897ac.Gp5xaTB7Qj6osdlb%2FaxR2jsTaIV23h7pQUr1ahlux5g",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1825257014.419962,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3Ab9THQyLLQjRtwU4YEaiXrA.PWIRLqR2OLrrdz6QTGMOtayRiZjcd%2FZ%2FaZBS25Q%2Fc7g",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1825257014.420084,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3Ab9THQyLLQjRtwU4YEaiXrA.PWIRLqR2OLrrdz6QTGMOtayRiZjcd%2FZ%2FaZBS25Q%2Fc7g",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1825257014.420141,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "value": "71157211992010619783566357663254217252",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1809325395.918228,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "value": "71157211992010619783566357663254217252",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1809325395.918338,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_cs",
+      "value": "l+EQxuppf4rbMmxYXoBW59Hf4IAt5R7ppzk1zB3ojgL1L0HW5jnrGhDTd9hxlGGZjTCZXMu+7Chb8p2/FVJO7g==",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1824877395.942174,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_csd",
+      "value": "1793773395292:1793773395292",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1824877395.942248,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "st_uid",
+      "value": "01a1a539-dd58-70f4-bf21-721a88a50e6d",
+      "domain": ".seedtag.com",
+      "path": "/",
+      "expires": 1824877395.94228,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "V",
+      "value": "D2QtAE1o0i0b",
+      "domain": ".contextweb.com",
+      "path": "/",
+      "expires": 1824902174.812781,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VP",
+      "value": "part_D2QtAE1o0i0b",
+      "domain": ".contextweb.com",
+      "path": "/",
+      "expires": 1824902174.812985,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "INGRESSCOOKIE",
+      "value": "d1a92da38776f845",
+      "domain": "bh.contextweb.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rbu",
+      "value": "01a1f359-29ce-7b3c-bec9-8e3305f0ceb5",
+      "domain": ".reddit.com",
+      "path": "/",
+      "expires": 1828875944.624094,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__adroll",
+      "value": "46b0b9f580aff230131ae270f015a2f2-g_1795084069-a_1793100399",
+      "domain": ".d.adroll.com",
+      "path": "/",
+      "expires": 1829399018.02179,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__adroll_shared",
+      "value": "46b0b9f580aff230131ae270f015a2f2-g_1795084069-a_1793100399",
+      "domain": ".adroll.com",
+      "path": "/",
+      "expires": 1829399018.022085,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tt_viewer",
+      "value": "f556d6bd-6099-4b7d-ba36-edf0f999f90c",
+      "domain": ".teads.tv",
+      "path": "/",
+      "expires": 1826533778.217867,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KADUSERCOOKIE",
+      "value": "C3960218-D37C-4C02-A2FC-135C17181894",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1826620178.231747,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v4",
+      "value": "s%3ACiQwMWExZjM1YS1kNmQzLTdlYjAtYTczYi1iNmVjMjBhODY0NjIQAxoEQVBBQyBN.qLhGk3HNlomU4SsHBcB6RYREav8pvsgkDR8TCRhLjI8",
+      "domain": "sync.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1826620180.299754,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v4",
+      "value": "s%3ACiQwMWExZjM1YS1kNmQzLTdlYjAtYTczYi1iNmVjMjBhODY0NjIQAxoEQVBBQyBN.qLhGk3HNlomU4SsHBcB6RYREav8pvsgkDR8TCRhLjI8",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1826620180.299846,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cs_id",
+      "value": "4a89ee66-e74f-a22f-cf03-b97edeba049e.1793714932.2.1795084189.1795084189.1.1827878932459.1.x",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1827878932,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "luf_-379430017",
+      "value": "eyJ6aXAiOiJERUYiLCJ2ZXIiOiIxIiwiYWxpYXMiOiJlbmNyeXB0aW9ua2V5Iiwib2lkIjoiMDBvM2o3dTdudlFDMnYyemw2OTciLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIiwidGltZXN0YW1wIjoxNzk1MDg0MjM0MjE5fQ..SsoQmnUCcfuqarmh.dxwZVbDegLLb1_PAQO9pymk7eVlsCPVqlXImEE-2_zF7CnOZUnYYt2-lj8ANMVWozFbhDqMOpYcWCODXoDN1j3gfYBXV22NCozrtsc34hu_-HOWZ1bNc9snbW9vlJHDyZCEx_iQMvkkAcPY8N2RQz6yu2vGgAVpNjnPWcX5aGDHDEWW-bNCfToXkcfCq3cCY05SQMw.NjecqW6ZYCntKt2-ABMGBw",
+      "domain": "tbid.digital.salesforce.com",
+      "path": "/",
+      "expires": 1797676235.427106,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "iis_p",
+      "value": "MTc0ODFlMDItNTM0Yi00NDE4LWFkMTctODI3YjdlY2IxZjg3ITAwNWtjMDAwcDNobWx0ckFBQQ",
+      "domain": ".digital.salesforce.com",
+      "path": "/",
+      "expires": 1795688796.738602,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "iis_p",
+      "value": "MTc0ODFlMDItNTM0Yi00NDE4LWFkMTctODI3YjdlY2IxZjg3ITAwNWtjMDAwcDNobWx0ckFBQQ",
+      "domain": ".www.salesforce.com",
+      "path": "/",
+      "expires": 1795688786.869579,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_3VHBZ2DJWP",
+      "value": "GS2.1.s1795084190$o2$g1$t1795084242$j8$l0$h0",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1829644242.954953,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "userActive",
+      "value": "2",
+      "domain": ".trailhead.salesforce.com",
+      "path": "/",
+      "expires": 1797503445,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KRTBCOOKIE_10",
+      "value": "0-NDZiMGI5ZjU4MGFmZjIzMDEzMWFlMjcwZjAxNWEyZjI",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1802955945.200129,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "8647621746817199848",
+      "domain": ".turn.com",
+      "path": "/",
+      "expires": 1810636247.614532,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUlxT_owaARQNzsmwVQgKfpXz_YqLwkEq0rpNiJsVMJOlT2dJ0BR0y3OlTQe7DI",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1829719678.284307,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "E123A3F49F7BF69A468D4031D279E723",
+      "domain": "tbid.digital.salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "idx",
+      "value": "eyJ6aXAiOiJERUYiLCJ2ZXIiOiIxIiwiYWxpYXMiOiJlbmNyeXB0aW9ua2V5Iiwib2lkIjoiMDBvM2o3dTdudlFDMnYyemw2OTciLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiZGlyIiwieHNpZCI6ImlkeFhHTGpjSlowUXBlLVdxRWN0bnVrRXcifQ..TKmqfHUme4-Ic2nd.9sKRx8OB80QghLnlJNU_dxoYEokU1S0SLknBdEiPr1GUcQOX0oazhW3ddo_OcS6iKFteFeAUF_d6XcYbQ_YY9gxlVdGRyfKv52USMEmAB64A2Sj1O6Mwvcf09u4IykNDdEbATOo-qpIS29zbnc-w-FoOUTx2aB-pKtcTAhMO-vGUPw9eSqB80zluoWo2pt8urFue1g3dnbXDnzX_InGQRTDvXvnYvMwJnFSQrw1HwJtPt4rDKNojwv_H79qUuPEl_Hp0hWdwf1drYeREXx4f_iHh0UQ8FUIKfTVTMpjHUQ2x8qQokpT4oovSmenYIH0RcwF8EfTHKM7W3PiuQFf9_158WXPaZa00iDJFFBCMR8vxMjd4klkz95osJDlqkvKfcriMC3e8UllQe4FeVxN_af-FHth3M0MOkMko-w9OqUIdSudLggamjCxPoaxkV-DgRaBNbTJGOn9VPB7Z0CF__Imjd17jPSalZhaiPPSnd8Fkd-OhT1pxQXpciufUAEwa6xgjm0mCJkPghEPtziJ6Q_58F5f2mQbovvqtcgEqAwtCOABENL8eVfLFIxBeGukyY3LvLUJfCrBnUbDTTpbrBw._MI7ZbCErC2hWvuJ7E8eWA",
+      "domain": "tbid.digital.salesforce.com",
+      "path": "/",
+      "expires": 1795689034.028492,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "iis_pt",
+      "value": "1795159680129",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1795688796.738848,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_abck",
+      "value": "2A9BD8D03D25AE228914D904CE7E0D4C~-1~YAAQT5UjFz9xtMKhAQAAKu7a9xBhUIiI3eEbbDp0+BdOoh6s0rC0B6kCecRz0xO2KVmfUH/63/c7aamUgauuxalp/q3HmqyY7cpYRggRFoKuU7wFlcXR8RPTiLZX7KoBV1nc8NotvX2JiWXGa7XPoCNBPHT6OgpJge7Wdtn/kpYRlu2kfYUawRLsQaWS5PqXoq9sre5qRPHljx6/8+n13InCx7PTEn2DTUFrIBUAGBN6qu/WYYliMyEErdk4REJqOL6Wd6GCu+NBc5dmaKtHNvulgj/9mV9J1KgzgsuZnfwWW5u5GCI6R+0Noodpn9E7c3FQ+uHRDzMQ4G0+XIP9sXUWrItPIVA+iuzdmKF3REl149RXnF5ica/G+L/DLkU1GkWPSqKWIkQIjTTyTbwzuhI7gHzi8YqdpORIZngCc5et0hRp/1cWZKc3yBNDmJhKC4aOqoNLID0wxmWkrwFOJda7Mbfmo+Z+L4RNPs4kMynBzxqF/K9v66h4DG/HbZ3r9YTD65VCDlPCu+PyVLiQAL8KpjHj9K9z1iCLx1XdkxekFOOAl6Npr/kc7SP3+KJddXnP+TKQLd8YmyaYfC7DqMBVaUPNrcPOODPWYTAbtlrmMKZLr7u81ebf+A==~-1~-1~1793718592~AAQAAAAG%2f%2f%2f%2f%2fza3WxUBL8ffaBe%2fVWXkSRYM6fc8JmLhjdhPSZaju4BYcRAolJqxgAIWmBJwjQoequkKhf%2fleLhZuBRKUoi9uUPs+7tw%2f6MnKtPB~-1",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1826695682.869821,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "1!7788-2!7762",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1800363945.189328,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UID",
+      "value": "190aacff655c3277564724a1795177813",
+      "domain": ".scorecardresearch.com",
+      "path": "/",
+      "expires": 1828873813.29221,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XID",
+      "value": "190aacff655c3277564724a1795177813",
+      "domain": ".scorecardresearch.com",
+      "path": "/",
+      "expires": 1828873813.292285,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_ga_H6M98GGB18",
+      "value": "GS2.1.s1795177812$o7$g0$t1795177812$j60$l0$h0",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1829737813.511501,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Conviva_sdkConfig",
+      "value": "%7B%22clId%22%3A%22211505938.584811810.580442219.352816457%22%2C%22iid%22%3A1503415028%7D",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1795179944",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1797771945.200248,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|q90bjdKwl7W/iaR4Px58bxl/KatKrMmBcAPUnrjDCWYPHHjUhcZfJqEYXVRl/OyBDGbI3HEwrL4wHTRO1/p4iGlty70eE65yR164mUDQhphJnKuoXdYGNoY4GAQZsygPiXkAdSIeBg/XbR5xM2F+PqyvUfbOD0gmDdXum8mCaNJfsrj/H5XGSL0BfMI+7AFEhEtZT8gQU1NA19Uy18rCHHyAeYcmRhQqDMxk72OwxoKma+WVcS1g3g==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1826715945.254909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://salesforce.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|q90bjdKwl7W/iaR4Px58bxl/KatKrMmBcAPUnrjDCWYPHHjUhcZfJqEYXVRl/OyBDGbI3HEwrL4wHTRO1/p4iGlty70eE65yR164mUDQhphJnKuoXdYGNoY4GAQZsygPiXkAdSIeBg/XbR5xM2F+PqyvUfbOD0gmDdXum8mCaNJfsrj/H5XGSL0BfMI+7AFEhEtZT8gQU1NA19Uy18rCHHyAeYcmRhQqDMxk72OwxoKma+WVcS1g3g==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1826715945.255166,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4/rD>6NRF']wIg2IleEbr/D!A#FVj!e5fB%8p$D%6?/ij:fAg7OnR4qb[g5A^l8gHo`<]VcPV]rzuJgSRmP2x#1v]VLYE]X]Pm]V)n?d)_z3cd#A^e+.<Q!:gLwUnM-i",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1802955945.389169,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rlas3",
+      "value": "NzNW+dMSk2BEk1aHpibmWh3K/IyN7TysLVob8S//Kqc=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1826715945.407078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CPGUgtcGEgUI6AcQABIHCMtHEIzYfRIHCOhHEJ+KeRIHCO5HEMLwJRIICLDqARDhiSkSCAi26gEQ+sAlEggIuuoBEOSKeRIICMDqARDj5X4SCAjC6gEQ7bslEggI6uoBELj2fhIICPLqARCJwiUSBwi46wEQlAwSCAjawh4QrMsqEggI6twqENbBJRIICMrdKhDBwSU=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1800363945.407198,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFAoFdGFwYWQSCwjWmNfWoMTjPxAFGAEgASgCMgsI5o7ag7fE4z8QBTgBWgV0YXBhZGAC",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1826715945.432305,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_twsid",
+      "value": "1795271017613-238325398.11.1795271017613",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1828967017.614411,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1793100399558.78c9eb1d-2bd9-41e1-889e-6c6c02a2b937",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1803047017,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLU4va0jsTHoAAAAaH-fcOqooQ2h7U0Z8lmbB07oUpDHy95J_XAOpU3_bH9HYxHdxLfZMz4q8b42A",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1797863017.947713,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQJSVaYtTXTbGgAAAaH-fcOqQg4Uq-He97XIZDBY-xGjjLYhNLC1aW6kRYyIxx6JbHpe6CUiDSmSAp8oVRir8Q",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1797863017.947766,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__ar_v4",
+      "value": "SVG2G5LBL5E2RIIQS6OJTS%3A20261103%3A17%7CUGEI6X2TY5CX3KC2SS35QE%3A20261103%3A17%7CATZA2SSACRCA7GXYO5DVON%3A20261103%3A17",
+      "domain": ".trailhead.salesforce.com",
+      "path": "/",
+      "expires": 1826807018,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Sat+Nov+21+2026+23%3A29%3A40+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e47f0bfe-85bd-47c2-bc47-fcb3e8db9950&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=1%3A1%2C3%3A1%2C4%3A1&AwaitingReconsent=false",
+      "domain": ".salesforce.com",
+      "path": "/",
+      "expires": 1826819980,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_session_id",
+      "value": "998bfac5d4c9728e1da62e523d7d6698",
+      "domain": "trailhead.salesforce.com",
+      "path": "/",
+      "expires": 1795530424.369232,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://trailhead.salesforce.com",
+      "localStorage": [
+        {
+          "name": "convivaOutQueue_CAT_post2",
+          "value": "[{\"evt\":{\"e\":\"pv\",\"url\":\"https://trailhead.salesforce.com/today\",\"page\":\"Today | Trailhead\",\"eid\":\"18390ae7-bc36-4422-87bb-0d7e6f2e9e3c\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179943486\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/pc/1-0-1\\\",\\\"dt\\\":{\\\"st\\\":1795179938915,\\\"dls\\\":1795179939841,\\\"dle\\\":1795179939841,\\\"rss\\\":1795179941067,\\\"rse\\\":1795179941498,\\\"le\\\":1795179938915,\\\"dur\\\":0,\\\"as\\\":1795179938915}},{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":0}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":846},{\"evt\":{\"e\":\"ue\",\"eid\":\"dc3c6220-8db6-401f-83be-6c21fc8060c5\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179943491\",\"page\":\"Today | Trailhead\",\"url\":\"https://trailhead.salesforce.com/today\",\"ue_pr\":\"{\\\"sc\\\":\\\"sp/ue/1-0-0\\\",\\\"dt\\\":{\\\"sc\\\":\\\"cv/re/1-0-1\\\",\\\"dt\\\":{\\\"name\\\":\\\"conviva_webvitals_fcp\\\",\\\"data\\\":\\\"{\\\\\\\"value\\\\\\\":2944,\\\\\\\"rating\\\\\\\":\\\\\\\"needs-improvement\\\\\\\",\\\\\\\"delta\\\\\\\":2944,\\\\\\\"id\\\\\\\":\\\\\\\"v5-1795179943485-1587059905821\\\\\\\",\\\\\\\"navigationType\\\\\\\":\\\\\\\"navigate\\\\\\\",\\\\\\\"attribution\\\\\\\":{\\\\\\\"loadState\\\\\\\":\\\\\\\"dom-interactive\\\\\\\",\\\\\\\"firstByteToFCP\\\\\\\":791.8999999761581,\\\\\\\"navigationEntry\\\\\\\":{\\\\\\\"name\\\\\\\":\\\\\\\"https://trailhead.salesforce.com/today\\\\\\\"},\\\\\\\"timeToFirstByte\\\\\\\":2152.100000023842}}\\\"}}}\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":1}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":1179},{\"evt\":{\"e\":\"pv\",\"url\":\"https://trailhead.salesforce.com/today\",\"page\":\"Today | Trailhead\",\"eid\":\"d2c6b092-034b-49a5-8d2f-9d54afd4e0c7\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179943493\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/pc/1-0-1\\\",\\\"dt\\\":{\\\"st\\\":1795179938915,\\\"dls\\\":1795179939841,\\\"dle\\\":1795179939841,\\\"rss\\\":1795179941067,\\\"rse\\\":1795179941498,\\\"le\\\":1795179938915,\\\"dur\\\":0,\\\"as\\\":1795179938915,\\\"lcp\\\":{\\\"rt\\\":1795179941911,\\\"url\\\":\\\"https://trailhead.salesforce.com/assets/today_reimagined/hero-afternoon-d1ee78f222df58739e6b269017d6dcf6d09476d8ee3cde5b5d638b82\\\",\\\"sz\\\":420350}}},{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":2}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":1032},{\"evt\":{\"e\":\"ue\",\"eid\":\"dcfee954-544f-48b5-a43e-e7df64fb81a7\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179943523\",\"page\":\"Today | Trailhead\",\"url\":\"https://trailhead.salesforce.com/today\",\"ue_pr\":\"{\\\"sc\\\":\\\"sp/ue/1-0-0\\\",\\\"dt\\\":{\\\"sc\\\":\\\"cv/re/1-0-1\\\",\\\"dt\\\":{\\\"name\\\":\\\"custEv_chatOpen\\\",\\\"data\\\":\\\"{\\\\\\\"event\\\\\\\":\\\\\\\"custEv_chatOpen\\\\\\\",\\\\\\\"formJoinIDUnique\\\\\\\":\\\\\\\"b5b3438c-3d49-456d-9d20-aea4550b993d\\\\\\\",\\\\\\\"gtm.uniqueEventId\\\\\\\":172}\\\"}}}\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":3}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":909},{\"evt\":{\"e\":\"ue\",\"eid\":\"927098f4-ba9a-4686-b11c-4f185ffb6e29\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179944646\",\"page\":\"Today | Trailhead\",\"url\":\"https://trailhead.salesforce.com/today\",\"ue_pr\":\"{\\\"sc\\\":\\\"sp/ue/1-0-0\\\",\\\"dt\\\":{\\\"sc\\\":\\\"cv/nr/1-0-5\\\",\\\"dt\\\":{\\\"targetUrl\\\":\\\"https://alb.reddit.com/rp?id=t2_umg4wozo&event=PageVisit\\\",\\\"method\\\":\\\"POST\\\",\\\"responseStatusCode\\\":200,\\\"responseStatusText\\\":\\\"ok\\\",\\\"duration\\\":337.2}}}\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":4}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":898},{\"evt\":{\"e\":\"ue\",\"eid\":\"cc1d1efa-6249-4639-820b-4487ae27086f\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179944661\",\"page\":\"Today | Trailhead\",\"url\":\"https://trailhead.salesforce.com/today\",\"ue_pr\":\"{\\\"sc\\\":\\\"sp/ue/1-0-0\\\",\\\"dt\\\":{\\\"sc\\\":\\\"cv/nr/1-0-5\\\",\\\"dt\\\":{\\\"targetUrl\\\":\\\"https://trailhead.salesforce.com/user/login\\\",\\\"method\\\":\\\"GET\\\",\\\"responseStatusCode\\\":200,\\\"responseStatusText\\\":\\\"ok\\\",\\\"duration\\\":1108.5}}}\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":5}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":885},{\"evt\":{\"e\":\"ue\",\"eid\":\"69f48689-4e2e-4174-aa9a-6a806a02c444\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179944676\",\"page\":\"Today | Trailhead\",\"url\":\"https://trailhead.salesforce.com/today\",\"ue_pr\":\"{\\\"sc\\\":\\\"sp/ue/1-0-0\\\",\\\"dt\\\":{\\\"sc\\\":\\\"cv/nr/1-0-5\\\",\\\"dt\\\":{\\\"targetUrl\\\":\\\"https://trailhead.salesforce.com/services/mobile/graphql\\\",\\\"method\\\":\\\"POST\\\",\\\"responseStatusCode\\\":200,\\\"responseStatusText\\\":\\\"ok\\\",\\\"duration\\\":381.7}}}\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":6}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":898},{\"evt\":{\"e\":\"ue\",\"eid\":\"109878d2-ea68-418e-92ea-346fc3a2467a\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179945463\",\"page\":\"Today | Trailhead\",\"url\":\"https://trailhead.salesforce.com/today\",\"ue_pr\":\"{\\\"sc\\\":\\\"sp/ue/1-0-0\\\",\\\"dt\\\":{\\\"sc\\\":\\\"cv/re/1-0-1\\\",\\\"dt\\\":{\\\"name\\\":\\\"custEv_contentImpression:afx/cannedprompt\\\",\\\"data\\\":\\\"{\\\\\\\"event\\\\\\\":\\\\\\\"custEv_contentImpression\\\\\\\",\\\\\\\"blade\\\\\\\":{\\\\\\\"id\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"afx/cannedprompt\\\\\\\",\\\\\\\"position\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"source\\\\\\\":\\\\\\\"agentforce\\\\\\\",\\\\\\\"variant\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"state\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"blade\\\\\\\",\\\\\\\"modules\\\\\\\":[{\\\\\\\"id\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Where do I start?\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"canned prompt\\\\\\\",\\\\\\\"position\\\\\\\":1},{\\\\\\\"id\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Help me understand\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"canned prompt\\\\\\\",\\\\\\\"position\\\\\\\":2},{\\\\\\\"id\\\\\\\":\\\\\\\"\\\\\\\",\\\\\\\"name\\\\\\\":\\\\\\\"Check my knowledge\\\\\\\",\\\\\\\"type\\\\\\\":\\\\\\\"canned prompt\\\\\\\",\\\\\\\"position\\\\\\\":3}]},\\\\\\\"gtm.uniqueEventId\\\\\\\":188}\\\"}}}\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":7}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":1448},{\"evt\":{\"e\":\"pp\",\"url\":\"https://trailhead.salesforce.com/today\",\"page\":\"Today | Trailhead\",\"eid\":\"1d8aaf91-3c87-41e0-80e2-d18cc23ccaa5\",\"tv\":\"js-2.0.2\",\"aid\":\"salesforce.com\",\"p\":\"web\",\"dtm\":\"1795179945487\",\"co\":\"{\\\"sc\\\":\\\"sp/ctx/1-0-0\\\",\\\"dt\\\":[{\\\"sc\\\":\\\"cv/pc/1-0-1\\\",\\\"dt\\\":{\\\"st\\\":1795179938915,\\\"dls\\\":1795179939841,\\\"dle\\\":1795179939841,\\\"rss\\\":1795179941067,\\\"rse\\\":1795179941498,\\\"le\\\":1795179938915,\\\"dur\\\":0,\\\"as\\\":1795179938915}},{\\\"sc\\\":\\\"cv/clid/1-0-2\\\",\\\"dt\\\":{\\\"clid\\\":\\\"211505938.584811810.580442219.352816457\\\",\\\"iid\\\":\\\"1503415028\\\",\\\"ck\\\":\\\"06728a8384d0e8809619d22a5b7f21f8cad1f19e\\\",\\\"eventIndex\\\":8}},{\\\"sc\\\":\\\"cv/ct/1-0-0\\\",\\\"dt\\\":{\\\"data\\\":{}}},{\\\"sc\\\":\\\"spm/app/1-0-0\\\",\\\"dt\\\":{\\\"build\\\":\\\"1.321.2\\\",\\\"version\\\":\\\"1.321.2\\\"}},{\\\"sc\\\":\\\"iglu:com.conviva/pm/jsonschema/1-0-2\\\",\\\"dt\\\":{\\\"sch\\\":\\\"sdk.js.eco.1\\\",\\\"cat\\\":\\\"WEB\\\"}}]}\"},\"bytes\":846}]"
+        },
+        {
+          "name": "userleap.ids",
+          "value": "{\"GKqxDbHHaiNa\":{\"sampled\":null,\"vid\":\"a89580c0-d6c6-448d-9bb7-70f1aa8e1a5b\",\"trackStartUrl\":\"https://trailhead.salesforce.com/today\",\"token\":\"tokenNotNeeded\"}}"
+        },
+        {
+          "name": "Learner_Agent_PBMUI_WEB_STORAGE",
+          "value": "{\"CONFIG_SIGNATURE\":\"00DMM000000d7cj|https://th-agentforce-bot-org.my.salesforce-scrt.com\",\"ACTIVE_PROVIDER\":\"miaw\"}"
+        },
+        {
+          "name": "Conviva.sdkConfig",
+          "value": "{\"clId\":\"211505938.584811810.580442219.352816457\",\"iid\":1503415028}"
+        },
+        {
+          "name": "ConvivaVisualLabellingConfig",
+          "value": "eyJzZW5zb3JWZXJzaW9uIjoianMtMi4wLjIiLCJjayI6IjA2NzI4YTgzODRkMGU4ODA5NjE5ZDIyYTViN2YyMWY4Y2FkMWYxOWUifQ=="
+        },
+        {
+          "name": "sprig.anon.env.vid.map",
+          "value": "{\"GKqxDbHHaiNa\":\"a89580c0-d6c6-448d-9bb7-70f1aa8e1a5b\"}"
+        },
+        {
+          "name": "ConvivaRemoteConfig",
+          "value": "{\"cacheRefreshInterval\":60,\"base64\":false,\"lifecycleAutotracking\":true,\"exceptionAutotracking\":true,\"enablePeriodicHeartbeat\":true,\"periodicHeartbeatInterval\":40,\"enc\":\"gzip\",\"customEventTrackingConfiguration\":{\"blocklist\":[\"c3.sdk.init\",\"Conviva.RemoteConfigApplied\",\"c3.video.set_content_info\",\"c3.video.bitrate_switch\",\"Conviva.TrackerCreated\",\"c3.video.custom_event\",\"c3.video.buffering\",\"c3.video.end\",\"c3.video.pause\",\"c3.sdk.custom_event\"]},\"softNavigationTrackingConfiguration\":{\"enabled\":true},\"networkRequestTrackingConfiguration\":{\"blocklist\":[\"akstat.io\",\"contentsquare.net\",\"data.schemaapp.com\",\"cdn.schemaapp.com\",\"api.schemaapp.com\",\"trial-eum-clienttons-s.akamaihd.net\",\"trial-eum-clientnsv4-s.akamaihd.net\",\"api.company-target.com\",\"tag-logger.demandbase.com\",\"pixel-config.reddit.com\",\"c.go-mpulse.net\",\"googleadservices.com\",\"/g/collect\",\"/mp/collect\",\"/gmp/conversion\",\"/ccm/collect\",\"/rmkt/collect/\",\"/measurement/conversion\",\"/pagead/1p-conversion/\",\"/j/collect\",\"/ads/ga-audiences\",\"analytics.google.com\",\"google.com/pagead\",\"googletagmanager.com\",\"privacyportal.onetrust.com/request/v1/consentreceipts/anonymous\",\"px.ads.linkedin.com\",\"fullstory.com\",\"doubleclick.net\",\"adsrvr.org\",\"zoominfo.com\",\"logx.optimizely.com\",\"remote_config.json\",\"l.clarity.ms\",\"snap.licdn.com\",\"www.redditstatic.com\",\"https://appgw.conviva.com\",\"cws.conviva.com\",\"rcg.conviva.com\",\"/wsg\",\"/ctp\",\"remote_config\",\"pings.conviva.com\",\".m3u8\",\".mpd\",\".ism\",\".m4\",\".mp4\",\".ts\",\".png\",\".jpg\",\".jpeg\",\".bmp\",\"google-analytics.com\",\"googlesyndication.com\",\"googleapis\",\"stats.g.doubleclick\",\"chartbeat.com\",\"omtrdc.net\",\"app-measurement.com\",\"firebase\",\"nr-data.net\",\"newrelic\",\"bitmovin.com/impression\",\"bitmovin.com/analytics\",\"api.segment.io\",\"youbora\",\"hotjar\",\"mixpanel.com\",\"clevertap\",\"auryc\",\".aac\",\".vtt\",\".googlevideo\",\"webp\",\"appsflyer\",\"facebook\",\"dynatrace\",\"mparticle\",\"npaw\",\".pdf\",\"bookkeeper\",\"kochava\",\"mp3\",\"marketingcloudapis\",\"demdex\",\"scorecardresearch\",\"lura.live\",\"perimeterx.net\",\"permutive.app\",\"segment.com\",\"vaicore.site\",\"boomtrain\",\"ketchcdn\",\"qualtrics\",\".svg\",\"amplitude\",\"datadoghq\",\"branch.io\",\"hotjar\",\"splunkcloud\"],\"collectattr\":[{\"conditions\":[{\"targetUrl\":[\"/iamessage/api/v2/conversation\"]}],\"rqb\":[\"message.staticContent.text\",\"conversationId\"]},{\"conditions\":[{\"targetUrl\":[\"idp/idx/introspect\"]}],\"rsb\":[\"remediation.value[0].name\",\"remediation.value.0.name\"]},{\"conditions\":[{\"targetUrl\":[\"content.ucs.sfdcdigital.com/graphql\"]}],\"rqb\":[\"variables\"],\"rsb\":[\"data.contentsByUcsId.0.displayName\",\"data.contentsByUcsId.0.ucsId\",\"data.contentsByUcsId.0.editions.0.price\",\"data.contentsByUcsId.0.editions.0.currency\",\"data.contentsByUcsId.0.editions.0.name\",\"data.contentsByUcsId.0.editions.0.description\",\"data.contentsByUcsId.0.editions.1.name\",\"data.contentsByUcsId.0.editions.1.description\",\"data.contentsByUcsId.0.editions.2.name\",\"data.contentsByUcsId.0.editions.2.description\"]},{\"conditions\":[{\"targetUrl\":[\"/v1/trials/status\"]}],\"rqb\":[\"orgId\",\"transactionId\"],\"rsb\":[\"status\",\"systemCode\",\"errorMessage\",\"orgId\",\"signupRequestId\",\"transactionId\"]},{\"conditions\":[{\"targetUrl\":[\"/services/auth/login\"]}],\"rqb\":[\"idp\"]},{\"conditions\":[{\"targetUrl\":[\"ogs.digital.salesforce.com/v1/forms\"]}],\"rsb\":[\"result.systemCode\"]},{\"conditions\":[{\"targetUrl\":[\"iis.digital.salesforce.com/services/api/user\"]}],\"rsb\":[\"userInfo.user_id\",\"userInfo.organization_id\",\"userInfo.newRegistration\"]},{\"conditions\":[{\"targetUrl\":[\"ogs.digital.salesforce.com/v1/interactions\"]}],\"rqb\":[\"metaData.orgId\"]},{\"conditions\":[{\"targetUrl\":[\"/idp/idx/\"]}],\"rqb\":[\"userProfile.countryCode\",\"userProfile.state\",\"userProfile.locale\",\"userProfile.marketingEmailOptIn\",\"userProfile.termsOfUseConsentStatus\",\"userProfile.termsOfUseId\",\"rememberMe\",\"keepMeSignedIn\",\"captchaVerify.captchaId\"],\"rsb\":[\"remediation.value.name\",\"remediation.value.method\",\"remediation.value.idp.name\",\"remediation.value.type\",\"uiDisplay.value.label\",\"uiDisplay.value.buttonLabel\",\"app.value.label\",\"intent\",\"authentication.value.issuer.name\",\"authentication.value.protocol\",\"authenticators.value.key\",\"authenticatorEnrollments.value.key\",\"currentAuthenticator.value.key\",\"currentAuthenticator.value.type\",\"currentAuthenticator.value.contextualData.useEmailMagicLink\",\"currentAuthenticatorEnrollment.value.key\",\"enrollmentAuthenticator.value.key\",\"captcha.value.type\",\"success.name\",\"user.value.profile.timeZone\",\"user.value.profile.locale\"]}],\"enabled\":true,\"eventCollectionMode\":\"both\"},\"traceparentconfig\":{\"enabled\":false,\"pref\":2,\"targetUrl\":[]},\"baggageConfiguration\":{\"enabled\":false,\"targetUrl\":[],\"attributeExtraction\":[]},\"performanceContextConfig\":2,\"mend\":true,\"catRcLastUpdatedTs\":1795179944606,\"endpoint\":\"https://appgw.conviva.com\",\"emitterConfiguration\":{\"batching\":{\"enabled\":true,\"byteLimitPostInKB\":250,\"batchingIntervalInSec\":5,\"urgentEvents\":[\"abg\",\"ae\",\"conviva_webvitals_lcp\",\"conviva_webvitals_cls\",\"conviva_webvitals_inp\"]}},\"applicationContext\":true,\"di\":{\"en\":false,\"lim\":30},\"clickcc\":{\"en\":true,\"cssSelectorList\":\"\\n  [role=\\\"button\\\"],\\n  [data-role=\\\"button\\\"],\\n  li,\\n  [class^=\\\"btn\\\"],\\n  [class*=\\\"click\\\"],\\n  [data-click],\\n  [data-action],\\n  [tabindex]:not([tabindex=\\\"-1\\\"]),\\n  [onclick],\\n  [role=\\\"datepicker\\\"],\\n  [class*=\\\"datepicker\\\"],\\n  [class*=\\\"date-picker\\\"],\\n  [class*=\\\"mat-datepicker\\\"],\\n  [class*=\\\"ant-picker\\\"],\\n  [class*=\\\"v-date-picker\\\"],\\n  [class*=\\\"react-datepicker\\\"],\\n  [class*=\\\"ngx-datepicker\\\"],\\n  [data-ng-click],\\n  [ng-click],\\n  [v-on\\\\:click],\\n  [\\\\@click],\\n  [data-test-id*=\\\"click\\\"],\\n  [data-testid*=\\\"button\\\"],\\n  [class*=\\\"-btn\\\"],\\n  [class*=\\\"-button\\\"],\\n  [class*=\\\"mat-button\\\"],\\n  [class*=\\\"v-btn\\\"],\\n  [class*=\\\"v-icon-button\\\"],\\n  [data-listener-count-click],\\n  [class*=\\\"Button\\\"]\\n\",\"uiMode\":\"closest\",\"collectattr\":[\"data-link-type\",\"data-variant\",\"part\",\"phone-number phone-number--state-error\",\"text-input--state-message\"]},\"collectionRateLimit\":{\"exceptionAutotracking\":{\"maxEvents\":20,\"timeWindow\":1000,\"disconnectDuration\":2000}},\"pageUrlTrackingConfig\":{\"collectattr\":[{\"conditions\":[{\"targetUrl\":[\"*\"]}],\"rqq\":[\"utm_source\",\"utm_id\",\"utm_campaign\",\"utm_medium\",\"utm_content\",\"method\",\"signup\",\"offerId\",\"offerType\",\"locale\",\"offerStatus\",\"progressive\",\"client_id\",\"hd\",\"error\",\"iss\",\"hasLoggedIn\",\"d\",\"nc\",\"bc\"]}],\"maxQueryLength\":10000},\"sessionReplayConfiguration\":null,\"evtStreamTrackingConfiguration\":{\"enabled\":true,\"collect\":[{\"countReset\":true,\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]}],\"type\":\"and\"}},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_PARTICIPANT_CHANGED\"]}],\"type\":\"and\"}},{\"count\":true,\"opt\":{\"cond\":[{\"key\":\"data.conversationEntry.entryPayload.streamingToken.sequenceNumber\",\"op\":\"==\",\"val\":1}],\"type\":\"or\"},\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_STREAMING_TOKEN\"]}],\"type\":\"and\"}},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_CLOSE_CONVERSATION\"]}],\"type\":\"and\"}},{\"_comment\":\"Following is the configuration for Piper utterances and metadata\",\"req\":{\"cond\":[{\"key\":\"host\",\"op\":\"==\",\"val\":[\"ws9.qualified.com\"]},{\"key\":\"identifier\",\"op\":\"==\",\"val\":[\"{\\\"channel\\\":\\\"Visitors::WidgetChannel\\\"}\"]},{\"cond\":[{\"key\":\"message.0.event\",\"op\":\"==\",\"val\":[\"generate_multimodal_pounce:response\",\"message\",\"qlfd.user_started_speaking\",\"qlfd.user_stopped_speaking\",\"qlfd.bot_started_speaking\",\"qlfd.bot_stopped_speaking\",\"record_privacy_disclosure_shown:response\",\"send_message:response\",\"typingStarted\",\"piperWebTrackingEvent\"]},{\"key\":\"message.1.event\",\"op\":\"==\",\"val\":[\"piperWebTrackingEvent\"]},{\"key\":\"message.2.event\",\"op\":\"==\",\"val\":[\"piperWebTrackingEvent\"]}],\"type\":\"or\"}],\"type\":\"and\"}}],\"block\":[],\"conditionalCollectAttr\":[{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]},{\"key\":\"data.conversationEntry.sender.role\",\"op\":\"==\",\"val\":[\"EndUser\"]}],\"type\":\"and\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.identifier\",\"data.conversationEntry.sender.role\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.text\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_product_category\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_utterance_category\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.user_sentiment\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_sentiment\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_query_negative\"]},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]},{\"key\":\"data.conversationEntry.sender.role\",\"op\":\"==\",\"val\":[\"Chatbot\"]}],\"type\":\"and\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.identifier\",\"data.conversationEntry.sender.role\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.text\"]},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]}],\"type\":\"or\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.entryPayload.streamingToken.sequenceNumber\",\"data.participantChanges\",\"data.closeReason\",\"data.closedBy\"]},{\"_comment\":\"Following is the configuration for Piper agent\",\"req\":{\"cond\":[{\"key\":\"host\",\"op\":\"==\",\"val\":[\"ws9.qualified.com\"]},{\"key\":\"identifier\",\"op\":\"==\",\"val\":[\"{\\\"channel\\\":\\\"Visitors::WidgetChannel\\\"}\"]}],\"type\":\"and\"},\"smb\":[\"identifier\",\"message.0.event\",\"message.0.payload.botStep\",\"message.0.payload.conversationId\",\"message.0.payload.createdAt\",\"message.0.payload.data.chatExperience\",\"message.0.payload.data.conversationEntry.sender.role\",\"message.0.payload.data.conversationId\",\"message.0.payload.data.event\",\"message.0.payload.data.eventType\",\"message.0.payload.data.formJoinIDUnique\",\"message.0.payload.data.interactionModality\",\"message.0.payload.data.nameCaptureCampaignId\",\"message.0.payload.executionStep\",\"message.0.payload.id\",\"message.0.payload.modality\",\"message.0.payload.nodeId\",\"message.0.payload.plainText\",\"message.0.payload.rect.x1\",\"message.0.payload.rect.x2\",\"message.0.payload.rect.y1\",\"message.0.payload.rect.y2\",\"message.0.payload.replyToId\",\"message.0.payload.scriptId\",\"message.0.payload.slideId\",\"message.0.payload.slideTitle\",\"message.0.payload.source\",\"message.0.payload.textSnippet\",\"message.0.payload.type\",\"message.0.payload.url\",\"message.0.payload.x\",\"message.0.payload.y\",\"message.0.payload.zoom.height\",\"message.0.payload.zoom.width\",\"message.0.payload.zoom.x\",\"message.0.payload.zoom.y\",\"message.1.event\",\"message.1.payload.botStep\",\"message.1.payload.conversationId\",\"message.1.payload.createdAt\",\"message.1.payload.data.chatExperience\",\"message.1.payload.data.conversationEntry.sender.role\",\"message.1.payload.data.conversationId\",\"message.1.payload.data.event\",\"message.1.payload.data.eventType\",\"message.1.payload.data.formJoinIDUnique\",\"message.1.payload.data.interactionModality\",\"message.1.payload.data.nameCaptureCampaignId\",\"message.1.payload.executionStep\",\"message.1.payload.id\",\"message.1.payload.modality\",\"message.1.payload.nodeId\",\"message.0.payload.plainText\",\"message.1.payload.rect.x1\",\"message.1.payload.rect.x2\",\"message.1.payload.rect.y1\",\"message.1.payload.rect.y2\",\"message.1.payload.replyToId\",\"message.1.payload.scriptId\",\"message.1.payload.slideId\",\"message.1.payload.slideTitle\",\"message.1.payload.source\",\"message.1.payload.textSnippet\",\"message.1.payload.type\",\"message.1.payload.url\",\"message.1.payload.x\",\"message.1.payload.y\",\"message.1.payload.zoom.height\",\"message.1.payload.zoom.width\",\"message.1.payload.zoom.x\",\"message.1.payload.zoom.y\",\"message.2.event\",\"message.2.payload.botStep\",\"message.2.payload.conversationId\",\"message.2.payload.createdAt\",\"message.2.payload.data.chatExperience\",\"message.2.payload.data.conversationEntry.sender.role\",\"message.2.payload.data.conversationId\",\"message.2.payload.data.event\",\"message.2.payload.data.eventType\",\"message.2.payload.data.formJoinIDUnique\",\"message.2.payload.data.interactionModality\",\"message.2.payload.data.nameCaptureCampaignId\",\"message.2.payload.executionStep\",\"message.2.payload.id\",\"message.2.payload.modality\",\"message.2.payload.nodeId\",\"message.0.payload.plainText\",\"message.2.payload.rect.x1\",\"message.2.payload.rect.x2\",\"message.2.payload.rect.y1\",\"message.2.payload.rect.y2\",\"message.2.payload.replyToId\",\"message.2.payload.scriptId\",\"message.2.payload.slideId\",\"message.2.payload.slideTitle\",\"message.2.payload.source\",\"message.2.payload.textSnippet\",\"message.2.payload.type\",\"message.2.payload.url\",\"message.2.payload.x\",\"message.2.payload.y\",\"message.2.payload.zoom.height\",\"message.2.payload.zoom.width\",\"message.2.payload.zoom.x\",\"message.2.payload.zoom.y\"]}],\"richContentInference\":{\"cond\":[]}},\"rcv\":\"4.0.0.90\",\"valueProbes\":{\"enabled\":true,\"probes\":[{\"emit\":\"once_per_view\",\"id\":\"phone_validation_error\",\"selectors\":[\"div.phone-number--state-error ~ div\"]},{\"emit\":\"once_per_view\",\"id\":\"email_validation_error\",\"selectors\":[\"div.text-input--state-error ~ div.text-input--state-message\"]}]},\"webVitals\":{\"collectattr\":[\"connectionDuration\",\"dnsDuration\",\"elementRenderDelay\",\"firstByteToFCP\",\"interactionTime\",\"largestShiftTime\",\"largestShiftValue\",\"loadState\",\"navigationEntry.name\",\"resourceLoadDelay\",\"resourceLoadDuration\",\"timeToFirstByte\"],\"enabled\":true,\"enabledAdditionalMetrics\":true}}"
+        },
+        {
+          "name": "Learner_Agent_PBMUI_MINIMIZED_BY_VISITOR",
+          "value": "true"
+        },
+        {
+          "name": "ConvivaSamplingMode",
+          "value": "RCFG"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"8GTM9OmkLpp52jcrQqrBiI-YI2TKx7rEKg\",\"lastJoinedTimeMs\":1795179944167},\"expires\":1795180244167},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1793714220703},\"expires\":1801490220703}}"
+        },
+        {
+          "name": "ogs_uact",
+          "value": "{\"userId\":\"2a2f786d-5165-49b7-87a1-3012ff6fd22f\"}"
+        },
+        {
+          "name": "convivaOutQueue_CAT_post2.expires",
+          "value": "1858251945488"
+        },
+        {
+          "name": "li_adsId",
+          "value": "771e3ee6-75ae-4c5e-ade0-5877af10eeec"
+        },
+        {
+          "name": "NRBA_SESSION::05417b11",
+          "value": "{\"value\":\"e1f9c2e0bfca5d05\",\"inactiveAt\":1795272817182,\"expiresAt\":1795285417182,\"updatedAt\":1795271018040,\"sessionReplayMode\":null,\"sessionReplaySentFirstChunk\":false,\"sessionTraceMode\":0,\"traceHarvestStarted\":false,\"loggingMode\":0,\"logApiMode\":0,\"serverTimeDiff\":165,\"custom\":{},\"numOfResets\":0,\"consent\":false,\"cachedRumResponse\":{\"app\":{\"agents\":[{\"entityGuid\":\"NTMzNDYxfEJST1dTRVJ8QVBQTElDQVRJT058NTk0NTEzNDM4\"}],\"igp\":\"\",\"nrServerTime\":1795271017445},\"err\":1,\"ins\":1,\"spa\":1,\"sr\":0,\"srs\":0,\"st\":1,\"sts\":0,\"log\":0,\"logapi\":0}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://tbid.digital.salesforce.com",
+      "localStorage": [
+        {
+          "name": "convivaOutQueue_CAT_post2",
+          "value": "[]"
+        },
+        {
+          "name": "okta-shared-transaction-storage",
+          "value": "{}"
+        },
+        {
+          "name": "Conviva.sdkConfig",
+          "value": "{\"clId\":\"211505938.584811810.580442219.352816457\",\"iid\":634483592}"
+        },
+        {
+          "name": "ConvivaVisualLabellingConfig",
+          "value": "eyJzZW5zb3JWZXJzaW9uIjoianMtMi4yLjAiLCJjayI6IjA2NzI4YTgzODRkMGU4ODA5NjE5ZDIyYTViN2YyMWY4Y2FkMWYxOWUifQ=="
+        },
+        {
+          "name": "ConvivaRemoteConfig",
+          "value": "{\"cacheRefreshInterval\":60,\"base64\":false,\"lifecycleAutotracking\":true,\"exceptionAutotracking\":true,\"enablePeriodicHeartbeat\":true,\"periodicHeartbeatInterval\":40,\"enc\":\"gzip\",\"customEventTrackingConfiguration\":{\"blocklist\":[\"c3.sdk.init\",\"Conviva.RemoteConfigApplied\",\"c3.video.set_content_info\",\"c3.video.bitrate_switch\",\"Conviva.TrackerCreated\",\"c3.video.custom_event\",\"c3.video.buffering\",\"c3.video.end\",\"c3.video.pause\",\"c3.sdk.custom_event\"]},\"softNavigationTrackingConfiguration\":{\"enabled\":true},\"networkRequestTrackingConfiguration\":{\"blocklist\":[\"akstat.io\",\"contentsquare.net\",\"data.schemaapp.com\",\"cdn.schemaapp.com\",\"api.schemaapp.com\",\"trial-eum-clienttons-s.akamaihd.net\",\"trial-eum-clientnsv4-s.akamaihd.net\",\"api.company-target.com\",\"tag-logger.demandbase.com\",\"pixel-config.reddit.com\",\"c.go-mpulse.net\",\"googleadservices.com\",\"/g/collect\",\"/mp/collect\",\"/gmp/conversion\",\"/ccm/collect\",\"/rmkt/collect/\",\"/measurement/conversion\",\"/pagead/1p-conversion/\",\"/j/collect\",\"/ads/ga-audiences\",\"analytics.google.com\",\"google.com/pagead\",\"googletagmanager.com\",\"privacyportal.onetrust.com/request/v1/consentreceipts/anonymous\",\"px.ads.linkedin.com\",\"fullstory.com\",\"doubleclick.net\",\"adsrvr.org\",\"zoominfo.com\",\"logx.optimizely.com\",\"remote_config.json\",\"l.clarity.ms\",\"snap.licdn.com\",\"www.redditstatic.com\",\"https://appgw.conviva.com\",\"cws.conviva.com\",\"rcg.conviva.com\",\"/wsg\",\"/ctp\",\"remote_config\",\"pings.conviva.com\",\".m3u8\",\".mpd\",\".ism\",\".m4\",\".mp4\",\".ts\",\".png\",\".jpg\",\".jpeg\",\".bmp\",\"google-analytics.com\",\"googlesyndication.com\",\"googleapis\",\"stats.g.doubleclick\",\"chartbeat.com\",\"omtrdc.net\",\"app-measurement.com\",\"firebase\",\"nr-data.net\",\"newrelic\",\"bitmovin.com/impression\",\"bitmovin.com/analytics\",\"api.segment.io\",\"youbora\",\"hotjar\",\"mixpanel.com\",\"clevertap\",\"auryc\",\".aac\",\".vtt\",\".googlevideo\",\"webp\",\"appsflyer\",\"facebook\",\"dynatrace\",\"mparticle\",\"npaw\",\".pdf\",\"bookkeeper\",\"kochava\",\"mp3\",\"marketingcloudapis\",\"demdex\",\"scorecardresearch\",\"lura.live\",\"perimeterx.net\",\"permutive.app\",\"segment.com\",\"vaicore.site\",\"boomtrain\",\"ketchcdn\",\"qualtrics\",\".svg\",\"amplitude\",\"datadoghq\",\"branch.io\",\"hotjar\",\"splunkcloud\"],\"collectattr\":[{\"conditions\":[{\"targetUrl\":[\"/iamessage/api/v2/conversation\"]}],\"rqb\":[\"message.staticContent.text\",\"conversationId\"]},{\"conditions\":[{\"targetUrl\":[\"idp/idx/introspect\"]}],\"rsb\":[\"remediation.value[0].name\",\"remediation.value.0.name\"]},{\"conditions\":[{\"targetUrl\":[\"content.ucs.sfdcdigital.com/graphql\"]}],\"rqb\":[\"variables\"],\"rsb\":[\"data.contentsByUcsId.0.displayName\",\"data.contentsByUcsId.0.ucsId\",\"data.contentsByUcsId.0.editions.0.price\",\"data.contentsByUcsId.0.editions.0.currency\",\"data.contentsByUcsId.0.editions.0.name\",\"data.contentsByUcsId.0.editions.0.description\",\"data.contentsByUcsId.0.editions.1.name\",\"data.contentsByUcsId.0.editions.1.description\",\"data.contentsByUcsId.0.editions.2.name\",\"data.contentsByUcsId.0.editions.2.description\"]},{\"conditions\":[{\"targetUrl\":[\"/v1/trials/status\"]}],\"rqb\":[\"orgId\",\"transactionId\"],\"rsb\":[\"status\",\"systemCode\",\"errorMessage\",\"orgId\",\"signupRequestId\",\"transactionId\"]},{\"conditions\":[{\"targetUrl\":[\"/services/auth/login\"]}],\"rqb\":[\"idp\"]},{\"conditions\":[{\"targetUrl\":[\"ogs.digital.salesforce.com/v1/forms\"]}],\"rsb\":[\"result.systemCode\"]},{\"conditions\":[{\"targetUrl\":[\"iis.digital.salesforce.com/services/api/user\"]}],\"rsb\":[\"userInfo.user_id\",\"userInfo.organization_id\",\"userInfo.newRegistration\"]},{\"conditions\":[{\"targetUrl\":[\"ogs.digital.salesforce.com/v1/interactions\"]}],\"rqb\":[\"metaData.orgId\"]},{\"conditions\":[{\"targetUrl\":[\"/idp/idx/\"]}],\"rqb\":[\"userProfile.countryCode\",\"userProfile.state\",\"userProfile.locale\",\"userProfile.marketingEmailOptIn\",\"userProfile.termsOfUseConsentStatus\",\"userProfile.termsOfUseId\",\"rememberMe\",\"keepMeSignedIn\",\"captchaVerify.captchaId\"],\"rsb\":[\"remediation.value.name\",\"remediation.value.method\",\"remediation.value.idp.name\",\"remediation.value.type\",\"uiDisplay.value.label\",\"uiDisplay.value.buttonLabel\",\"app.value.label\",\"intent\",\"authentication.value.issuer.name\",\"authentication.value.protocol\",\"authenticators.value.key\",\"authenticatorEnrollments.value.key\",\"currentAuthenticator.value.key\",\"currentAuthenticator.value.type\",\"currentAuthenticator.value.contextualData.useEmailMagicLink\",\"currentAuthenticatorEnrollment.value.key\",\"enrollmentAuthenticator.value.key\",\"captcha.value.type\",\"success.name\",\"user.value.profile.timeZone\",\"user.value.profile.locale\"]}],\"enabled\":true,\"eventCollectionMode\":\"both\"},\"traceparentconfig\":{\"enabled\":false,\"pref\":2,\"targetUrl\":[]},\"baggageConfiguration\":{\"enabled\":false,\"targetUrl\":[],\"attributeExtraction\":[]},\"performanceContextConfig\":2,\"mend\":true,\"catRcLastUpdatedTs\":1795084190194,\"endpoint\":\"https://appgw.conviva.com\",\"emitterConfiguration\":{\"batching\":{\"enabled\":true,\"byteLimitPostInKB\":250,\"batchingIntervalInSec\":5,\"urgentEvents\":[\"abg\",\"ae\",\"conviva_webvitals_lcp\",\"conviva_webvitals_cls\",\"conviva_webvitals_inp\"]}},\"applicationContext\":true,\"di\":{\"en\":false,\"lim\":30},\"clickcc\":{\"en\":true,\"cssSelectorList\":\"\\n  [role=\\\"button\\\"],\\n  [data-role=\\\"button\\\"],\\n  li,\\n  [class^=\\\"btn\\\"],\\n  [class*=\\\"click\\\"],\\n  [data-click],\\n  [data-action],\\n  [tabindex]:not([tabindex=\\\"-1\\\"]),\\n  [onclick],\\n  [role=\\\"datepicker\\\"],\\n  [class*=\\\"datepicker\\\"],\\n  [class*=\\\"date-picker\\\"],\\n  [class*=\\\"mat-datepicker\\\"],\\n  [class*=\\\"ant-picker\\\"],\\n  [class*=\\\"v-date-picker\\\"],\\n  [class*=\\\"react-datepicker\\\"],\\n  [class*=\\\"ngx-datepicker\\\"],\\n  [data-ng-click],\\n  [ng-click],\\n  [v-on\\\\:click],\\n  [\\\\@click],\\n  [data-test-id*=\\\"click\\\"],\\n  [data-testid*=\\\"button\\\"],\\n  [class*=\\\"-btn\\\"],\\n  [class*=\\\"-button\\\"],\\n  [class*=\\\"mat-button\\\"],\\n  [class*=\\\"v-btn\\\"],\\n  [class*=\\\"v-icon-button\\\"],\\n  [data-listener-count-click],\\n  [class*=\\\"Button\\\"]\\n\",\"uiMode\":\"closest\",\"collectattr\":[\"data-link-type\",\"data-variant\",\"part\",\"phone-number phone-number--state-error\",\"text-input--state-message\"]},\"collectionRateLimit\":{\"exceptionAutotracking\":{\"maxEvents\":20,\"timeWindow\":1000,\"disconnectDuration\":2000},\"formValidation\":{\"maxEvents\":20,\"timeWindow\":1000,\"disconnectDuration\":2000}},\"pageUrlTrackingConfig\":{\"collectattr\":[{\"conditions\":[{\"targetUrl\":[\"*\"]}],\"rqq\":[\"utm_source\",\"utm_id\",\"utm_campaign\",\"utm_medium\",\"utm_content\",\"method\",\"signup\",\"offerId\",\"offerType\",\"locale\",\"offerStatus\",\"progressive\",\"client_id\",\"hd\",\"error\",\"iss\",\"hasLoggedIn\",\"d\",\"nc\",\"bc\"]}],\"maxQueryLength\":10000},\"sessionReplayConfiguration\":null,\"evtStreamTrackingConfiguration\":{\"enabled\":true,\"collect\":[{\"countReset\":true,\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]}],\"type\":\"and\"}},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_PARTICIPANT_CHANGED\"]}],\"type\":\"and\"}},{\"count\":true,\"opt\":{\"cond\":[{\"key\":\"data.conversationEntry.entryPayload.streamingToken.sequenceNumber\",\"op\":\"==\",\"val\":1}],\"type\":\"or\"},\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_STREAMING_TOKEN\"]}],\"type\":\"and\"}},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_CLOSE_CONVERSATION\"]}],\"type\":\"and\"}},{\"_comment\":\"Following is the configuration for Piper utterances and metadata\",\"req\":{\"cond\":[{\"key\":\"host\",\"op\":\"==\",\"val\":[\"ws9.qualified.com\"]},{\"key\":\"identifier\",\"op\":\"==\",\"val\":[\"{\\\"channel\\\":\\\"Visitors::WidgetChannel\\\"}\"]},{\"cond\":[{\"key\":\"message.0.event\",\"op\":\"==\",\"val\":[\"generate_multimodal_pounce:response\",\"message\",\"qlfd.user_started_speaking\",\"qlfd.user_stopped_speaking\",\"qlfd.bot_started_speaking\",\"qlfd.bot_stopped_speaking\",\"record_privacy_disclosure_shown:response\",\"send_message:response\",\"typingStarted\",\"piperWebTrackingEvent\"]},{\"key\":\"message.1.event\",\"op\":\"==\",\"val\":[\"piperWebTrackingEvent\"]},{\"key\":\"message.2.event\",\"op\":\"==\",\"val\":[\"piperWebTrackingEvent\"]}],\"type\":\"or\"}],\"type\":\"and\"}}],\"block\":[],\"conditionalCollectAttr\":[{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]},{\"key\":\"data.conversationEntry.sender.role\",\"op\":\"==\",\"val\":[\"EndUser\"]}],\"type\":\"and\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.identifier\",\"data.conversationEntry.sender.role\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.text\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_product_category\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_utterance_category\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.user_sentiment\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_sentiment\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_query_negative\"]},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]},{\"key\":\"data.conversationEntry.sender.role\",\"op\":\"==\",\"val\":[\"Chatbot\"]}],\"type\":\"and\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.identifier\",\"data.conversationEntry.sender.role\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.text\"]},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]}],\"type\":\"or\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.entryPayload.streamingToken.sequenceNumber\",\"data.participantChanges\",\"data.closeReason\",\"data.closedBy\"]},{\"_comment\":\"Following is the configuration for Piper agent\",\"req\":{\"cond\":[{\"key\":\"host\",\"op\":\"==\",\"val\":[\"ws9.qualified.com\"]},{\"key\":\"identifier\",\"op\":\"==\",\"val\":[\"{\\\"channel\\\":\\\"Visitors::WidgetChannel\\\"}\"]}],\"type\":\"and\"},\"smb\":[\"identifier\",\"message.0.event\",\"message.0.payload.botStep\",\"message.0.payload.conversationId\",\"message.0.payload.createdAt\",\"message.0.payload.data.chatExperience\",\"message.0.payload.data.conversationEntry.sender.role\",\"message.0.payload.data.conversationId\",\"message.0.payload.data.event\",\"message.0.payload.data.eventType\",\"message.0.payload.data.formJoinIDUnique\",\"message.0.payload.data.interactionModality\",\"message.0.payload.data.nameCaptureCampaignId\",\"message.0.payload.executionStep\",\"message.0.payload.id\",\"message.0.payload.modality\",\"message.0.payload.nodeId\",\"message.0.payload.plainText\",\"message.0.payload.rect.x1\",\"message.0.payload.rect.x2\",\"message.0.payload.rect.y1\",\"message.0.payload.rect.y2\",\"message.0.payload.replyToId\",\"message.0.payload.scriptId\",\"message.0.payload.slideId\",\"message.0.payload.slideTitle\",\"message.0.payload.source\",\"message.0.payload.textSnippet\",\"message.0.payload.type\",\"message.0.payload.url\",\"message.0.payload.x\",\"message.0.payload.y\",\"message.0.payload.zoom.height\",\"message.0.payload.zoom.width\",\"message.0.payload.zoom.x\",\"message.0.payload.zoom.y\",\"message.1.event\",\"message.1.payload.botStep\",\"message.1.payload.conversationId\",\"message.1.payload.createdAt\",\"message.1.payload.data.chatExperience\",\"message.1.payload.data.conversationEntry.sender.role\",\"message.1.payload.data.conversationId\",\"message.1.payload.data.event\",\"message.1.payload.data.eventType\",\"message.1.payload.data.formJoinIDUnique\",\"message.1.payload.data.interactionModality\",\"message.1.payload.data.nameCaptureCampaignId\",\"message.1.payload.executionStep\",\"message.1.payload.id\",\"message.1.payload.modality\",\"message.1.payload.nodeId\",\"message.0.payload.plainText\",\"message.1.payload.rect.x1\",\"message.1.payload.rect.x2\",\"message.1.payload.rect.y1\",\"message.1.payload.rect.y2\",\"message.1.payload.replyToId\",\"message.1.payload.scriptId\",\"message.1.payload.slideId\",\"message.1.payload.slideTitle\",\"message.1.payload.source\",\"message.1.payload.textSnippet\",\"message.1.payload.type\",\"message.1.payload.url\",\"message.1.payload.x\",\"message.1.payload.y\",\"message.1.payload.zoom.height\",\"message.1.payload.zoom.width\",\"message.1.payload.zoom.x\",\"message.1.payload.zoom.y\",\"message.2.event\",\"message.2.payload.botStep\",\"message.2.payload.conversationId\",\"message.2.payload.createdAt\",\"message.2.payload.data.chatExperience\",\"message.2.payload.data.conversationEntry.sender.role\",\"message.2.payload.data.conversationId\",\"message.2.payload.data.event\",\"message.2.payload.data.eventType\",\"message.2.payload.data.formJoinIDUnique\",\"message.2.payload.data.interactionModality\",\"message.2.payload.data.nameCaptureCampaignId\",\"message.2.payload.executionStep\",\"message.2.payload.id\",\"message.2.payload.modality\",\"message.2.payload.nodeId\",\"message.0.payload.plainText\",\"message.2.payload.rect.x1\",\"message.2.payload.rect.x2\",\"message.2.payload.rect.y1\",\"message.2.payload.rect.y2\",\"message.2.payload.replyToId\",\"message.2.payload.scriptId\",\"message.2.payload.slideId\",\"message.2.payload.slideTitle\",\"message.2.payload.source\",\"message.2.payload.textSnippet\",\"message.2.payload.type\",\"message.2.payload.url\",\"message.2.payload.x\",\"message.2.payload.y\",\"message.2.payload.zoom.height\",\"message.2.payload.zoom.width\",\"message.2.payload.zoom.x\",\"message.2.payload.zoom.y\"]}],\"richContentInference\":{\"cond\":[]}},\"rcv\":\"4.0.0.90\",\"valueProbes\":{\"enabled\":true,\"probes\":[{\"emit\":\"once_per_view\",\"id\":\"phone_validation_error\",\"selectors\":[\"div.phone-number--state-error ~ div\"]},{\"emit\":\"once_per_view\",\"id\":\"email_validation_error\",\"selectors\":[\"div.text-input--state-error ~ div.text-input--state-message\"]}]},\"webVitals\":{\"collectattr\":[\"connectionDuration\",\"dnsDuration\",\"elementRenderDelay\",\"firstByteToFCP\",\"interactionTime\",\"largestShiftTime\",\"largestShiftValue\",\"loadState\",\"navigationEntry.name\",\"resourceLoadDelay\",\"resourceLoadDuration\",\"timeToFirstByte\"],\"enabled\":true,\"enabledAdditionalMetrics\":true},\"scrollsCollection\":{\"enabled\":false,\"milestones\":[25,50,75,100]},\"formcc\":{\"en\":true,\"trackFields\":true,\"trackValidation\":true,\"fieldDenylist\":[\"password\",\"ssn\",\"cvv\",\"credit-card\",\"creditcard\",\"cc-number\"],\"collectattr\":[]},\"ipv4ipv6collection\":{\"enabled\":true}}"
+        },
+        {
+          "name": "ConvivaSamplingMode",
+          "value": "RCFG"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1793100334994},\"expires\":1800876334994},\"gsid_dc\":{\"value\":{\"joinId\":\"i-EbtHt5KxywoLyjvjkM5Fis6kSPT2L86w\",\"lastJoinedTimeMs\":1795084191778},\"expires\":1795084491778}}"
+        },
+        {
+          "name": "_grecaptcha",
+          "value": "09AKhCRwiHVQOgWSVGA8N_FUAyw8dUgkXs1hB7UfSqIvgrC4IW966LrDinCU1wNymwXCHioqGw21dHWVCLipFLT8mFXgpGxDQUHmqHGUFJtT7DZuYHVtRhW3oF4zksy5CO"
+        },
+        {
+          "name": "ogs_uact",
+          "value": "{\"userId\":\"73ce231c-5cbe-4384-81c7-c682921493f7\"}"
+        },
+        {
+          "name": "convivaOutQueue_CAT_post2.expires",
+          "value": "1858156242965"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "c291b2JxMXB2N2JsZA=="
+        },
+        {
+          "name": "rc::f",
+          "value": "0aAEapM85_L4_3aC5GRaCAC7Ygy-_VNzmWUZPun9k1sgE8_MkZ--be4JRiydLfpr7oesSRbcs"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.salesforce.com",
+      "localStorage": [
+        {
+          "name": "Conviva.sdkConfig",
+          "value": "{\"clId\":\"211505938.584811810.580442219.352816457\",\"iid\":1066902473}"
+        },
+        {
+          "name": "ConvivaVisualLabellingConfig",
+          "value": "eyJzZW5zb3JWZXJzaW9uIjoianMtMi4yLjAiLCJjayI6IjA2NzI4YTgzODRkMGU4ODA5NjE5ZDIyYTViN2YyMWY4Y2FkMWYxOWUifQ=="
+        },
+        {
+          "name": "ConvivaRemoteConfig",
+          "value": "{\"cacheRefreshInterval\":60,\"base64\":false,\"lifecycleAutotracking\":true,\"exceptionAutotracking\":true,\"enablePeriodicHeartbeat\":true,\"periodicHeartbeatInterval\":40,\"enc\":\"gzip\",\"customEventTrackingConfiguration\":{\"blocklist\":[\"c3.sdk.init\",\"Conviva.RemoteConfigApplied\",\"c3.video.set_content_info\",\"c3.video.bitrate_switch\",\"Conviva.TrackerCreated\",\"c3.video.custom_event\",\"c3.video.buffering\",\"c3.video.end\",\"c3.video.pause\",\"c3.sdk.custom_event\"]},\"softNavigationTrackingConfiguration\":{\"enabled\":true},\"networkRequestTrackingConfiguration\":{\"blocklist\":[\"akstat.io\",\"contentsquare.net\",\"data.schemaapp.com\",\"cdn.schemaapp.com\",\"api.schemaapp.com\",\"trial-eum-clienttons-s.akamaihd.net\",\"trial-eum-clientnsv4-s.akamaihd.net\",\"api.company-target.com\",\"tag-logger.demandbase.com\",\"pixel-config.reddit.com\",\"c.go-mpulse.net\",\"googleadservices.com\",\"/g/collect\",\"/mp/collect\",\"/gmp/conversion\",\"/ccm/collect\",\"/rmkt/collect/\",\"/measurement/conversion\",\"/pagead/1p-conversion/\",\"/j/collect\",\"/ads/ga-audiences\",\"analytics.google.com\",\"google.com/pagead\",\"googletagmanager.com\",\"privacyportal.onetrust.com/request/v1/consentreceipts/anonymous\",\"px.ads.linkedin.com\",\"fullstory.com\",\"doubleclick.net\",\"adsrvr.org\",\"zoominfo.com\",\"logx.optimizely.com\",\"remote_config.json\",\"l.clarity.ms\",\"snap.licdn.com\",\"www.redditstatic.com\",\"https://appgw.conviva.com\",\"cws.conviva.com\",\"rcg.conviva.com\",\"/wsg\",\"/ctp\",\"remote_config\",\"pings.conviva.com\",\".m3u8\",\".mpd\",\".ism\",\".m4\",\".mp4\",\".ts\",\".png\",\".jpg\",\".jpeg\",\".bmp\",\"google-analytics.com\",\"googlesyndication.com\",\"googleapis\",\"stats.g.doubleclick\",\"chartbeat.com\",\"omtrdc.net\",\"app-measurement.com\",\"firebase\",\"nr-data.net\",\"newrelic\",\"bitmovin.com/impression\",\"bitmovin.com/analytics\",\"api.segment.io\",\"youbora\",\"hotjar\",\"mixpanel.com\",\"clevertap\",\"auryc\",\".aac\",\".vtt\",\".googlevideo\",\"webp\",\"appsflyer\",\"facebook\",\"dynatrace\",\"mparticle\",\"npaw\",\".pdf\",\"bookkeeper\",\"kochava\",\"mp3\",\"marketingcloudapis\",\"demdex\",\"scorecardresearch\",\"lura.live\",\"perimeterx.net\",\"permutive.app\",\"segment.com\",\"vaicore.site\",\"boomtrain\",\"ketchcdn\",\"qualtrics\",\".svg\",\"amplitude\",\"datadoghq\",\"branch.io\",\"hotjar\",\"splunkcloud\"],\"collectattr\":[{\"conditions\":[{\"targetUrl\":[\"/iamessage/api/v2/conversation\"]}],\"rqb\":[\"message.staticContent.text\",\"conversationId\"]},{\"conditions\":[{\"targetUrl\":[\"idp/idx/introspect\"]}],\"rsb\":[\"remediation.value[0].name\",\"remediation.value.0.name\"]},{\"conditions\":[{\"targetUrl\":[\"content.ucs.sfdcdigital.com/graphql\"]}],\"rqb\":[\"variables\"],\"rsb\":[\"data.contentsByUcsId.0.displayName\",\"data.contentsByUcsId.0.ucsId\",\"data.contentsByUcsId.0.editions.0.price\",\"data.contentsByUcsId.0.editions.0.currency\",\"data.contentsByUcsId.0.editions.0.name\",\"data.contentsByUcsId.0.editions.0.description\",\"data.contentsByUcsId.0.editions.1.name\",\"data.contentsByUcsId.0.editions.1.description\",\"data.contentsByUcsId.0.editions.2.name\",\"data.contentsByUcsId.0.editions.2.description\"]},{\"conditions\":[{\"targetUrl\":[\"/v1/trials/status\"]}],\"rqb\":[\"orgId\",\"transactionId\"],\"rsb\":[\"status\",\"systemCode\",\"errorMessage\",\"orgId\",\"signupRequestId\",\"transactionId\"]},{\"conditions\":[{\"targetUrl\":[\"/services/auth/login\"]}],\"rqb\":[\"idp\"]},{\"conditions\":[{\"targetUrl\":[\"ogs.digital.salesforce.com/v1/forms\"]}],\"rsb\":[\"result.systemCode\"]},{\"conditions\":[{\"targetUrl\":[\"iis.digital.salesforce.com/services/api/user\"]}],\"rsb\":[\"userInfo.user_id\",\"userInfo.organization_id\",\"userInfo.newRegistration\"]},{\"conditions\":[{\"targetUrl\":[\"ogs.digital.salesforce.com/v1/interactions\"]}],\"rqb\":[\"metaData.orgId\"]},{\"conditions\":[{\"targetUrl\":[\"/idp/idx/\"]}],\"rqb\":[\"userProfile.countryCode\",\"userProfile.state\",\"userProfile.locale\",\"userProfile.marketingEmailOptIn\",\"userProfile.termsOfUseConsentStatus\",\"userProfile.termsOfUseId\",\"rememberMe\",\"keepMeSignedIn\",\"captchaVerify.captchaId\"],\"rsb\":[\"remediation.value.name\",\"remediation.value.method\",\"remediation.value.idp.name\",\"remediation.value.type\",\"uiDisplay.value.label\",\"uiDisplay.value.buttonLabel\",\"app.value.label\",\"intent\",\"authentication.value.issuer.name\",\"authentication.value.protocol\",\"authenticators.value.key\",\"authenticatorEnrollments.value.key\",\"currentAuthenticator.value.key\",\"currentAuthenticator.value.type\",\"currentAuthenticator.value.contextualData.useEmailMagicLink\",\"currentAuthenticatorEnrollment.value.key\",\"enrollmentAuthenticator.value.key\",\"captcha.value.type\",\"success.name\",\"user.value.profile.timeZone\",\"user.value.profile.locale\"]}],\"enabled\":true,\"eventCollectionMode\":\"both\"},\"traceparentconfig\":{\"enabled\":false,\"pref\":2,\"targetUrl\":[]},\"baggageConfiguration\":{\"enabled\":false,\"targetUrl\":[],\"attributeExtraction\":[]},\"performanceContextConfig\":2,\"mend\":true,\"catRcLastUpdatedTs\":1793714995636,\"endpoint\":\"https://appgw.conviva.com\",\"emitterConfiguration\":{\"batching\":{\"enabled\":true,\"byteLimitPostInKB\":250,\"batchingIntervalInSec\":5,\"urgentEvents\":[\"abg\",\"ae\",\"conviva_webvitals_lcp\",\"conviva_webvitals_cls\",\"conviva_webvitals_inp\"]}},\"applicationContext\":true,\"di\":{\"en\":false,\"lim\":30},\"clickcc\":{\"en\":true,\"cssSelectorList\":\"\\n  [role=\\\"button\\\"],\\n  [data-role=\\\"button\\\"],\\n  li,\\n  [class^=\\\"btn\\\"],\\n  [class*=\\\"click\\\"],\\n  [data-click],\\n  [data-action],\\n  [tabindex]:not([tabindex=\\\"-1\\\"]),\\n  [onclick],\\n  [role=\\\"datepicker\\\"],\\n  [class*=\\\"datepicker\\\"],\\n  [class*=\\\"date-picker\\\"],\\n  [class*=\\\"mat-datepicker\\\"],\\n  [class*=\\\"ant-picker\\\"],\\n  [class*=\\\"v-date-picker\\\"],\\n  [class*=\\\"react-datepicker\\\"],\\n  [class*=\\\"ngx-datepicker\\\"],\\n  [data-ng-click],\\n  [ng-click],\\n  [v-on\\\\:click],\\n  [\\\\@click],\\n  [data-test-id*=\\\"click\\\"],\\n  [data-testid*=\\\"button\\\"],\\n  [class*=\\\"-btn\\\"],\\n  [class*=\\\"-button\\\"],\\n  [class*=\\\"mat-button\\\"],\\n  [class*=\\\"v-btn\\\"],\\n  [class*=\\\"v-icon-button\\\"],\\n  [data-listener-count-click],\\n  [class*=\\\"Button\\\"]\\n\",\"uiMode\":\"closest\",\"collectattr\":[\"data-link-type\",\"data-variant\",\"part\",\"phone-number phone-number--state-error\",\"text-input--state-message\"]},\"collectionRateLimit\":{\"exceptionAutotracking\":{\"maxEvents\":20,\"timeWindow\":1000,\"disconnectDuration\":2000},\"formValidation\":{\"maxEvents\":20,\"timeWindow\":1000,\"disconnectDuration\":2000}},\"pageUrlTrackingConfig\":{\"collectattr\":[{\"conditions\":[{\"targetUrl\":[\"*\"]}],\"rqq\":[\"utm_source\",\"utm_id\",\"utm_campaign\",\"utm_medium\",\"utm_content\",\"method\",\"signup\",\"offerId\",\"offerType\",\"locale\",\"offerStatus\",\"progressive\",\"client_id\",\"hd\",\"error\",\"iss\",\"hasLoggedIn\",\"d\",\"nc\",\"bc\"]}],\"maxQueryLength\":10000},\"sessionReplayConfiguration\":null,\"evtStreamTrackingConfiguration\":{\"enabled\":true,\"collect\":[{\"countReset\":true,\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]}],\"type\":\"and\"}},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_PARTICIPANT_CHANGED\"]}],\"type\":\"and\"}},{\"count\":true,\"opt\":{\"cond\":[{\"key\":\"data.conversationEntry.entryPayload.streamingToken.sequenceNumber\",\"op\":\"==\",\"val\":1}],\"type\":\"or\"},\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_STREAMING_TOKEN\"]}],\"type\":\"and\"}},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_CLOSE_CONVERSATION\"]}],\"type\":\"and\"}},{\"_comment\":\"Following is the configuration for Piper utterances and metadata\",\"req\":{\"cond\":[{\"key\":\"host\",\"op\":\"==\",\"val\":[\"ws9.qualified.com\"]},{\"key\":\"identifier\",\"op\":\"==\",\"val\":[\"{\\\"channel\\\":\\\"Visitors::WidgetChannel\\\"}\"]},{\"cond\":[{\"key\":\"message.0.event\",\"op\":\"==\",\"val\":[\"generate_multimodal_pounce:response\",\"message\",\"qlfd.user_started_speaking\",\"qlfd.user_stopped_speaking\",\"qlfd.bot_started_speaking\",\"qlfd.bot_stopped_speaking\",\"record_privacy_disclosure_shown:response\",\"send_message:response\",\"typingStarted\",\"piperWebTrackingEvent\"]},{\"key\":\"message.1.event\",\"op\":\"==\",\"val\":[\"piperWebTrackingEvent\"]},{\"key\":\"message.2.event\",\"op\":\"==\",\"val\":[\"piperWebTrackingEvent\"]}],\"type\":\"or\"}],\"type\":\"and\"}}],\"block\":[],\"conditionalCollectAttr\":[{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]},{\"key\":\"data.conversationEntry.sender.role\",\"op\":\"==\",\"val\":[\"EndUser\"]}],\"type\":\"and\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.identifier\",\"data.conversationEntry.sender.role\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.text\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_product_category\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_utterance_category\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.user_sentiment\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_sentiment\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.sf_query_negative\"]},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]},{\"key\":\"event\",\"op\":\"==\",\"val\":[\"CONVERSATION_MESSAGE\"]},{\"key\":\"data.conversationEntry.sender.role\",\"op\":\"==\",\"val\":[\"Chatbot\"]}],\"type\":\"and\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.identifier\",\"data.conversationEntry.sender.role\",\"data.conversationEntry.entryPayload.abstractMessage.staticContent.text\"]},{\"req\":{\"cond\":[{\"key\":\"path\",\"op\":\"==\",\"val\":[\"/eventrouter/v1/sse\"]}],\"type\":\"or\"},\"smb\":[\"data.conversationId\",\"data.conversationEntry.entryPayload.streamingToken.sequenceNumber\",\"data.participantChanges\",\"data.closeReason\",\"data.closedBy\"]},{\"_comment\":\"Following is the configuration for Piper agent\",\"req\":{\"cond\":[{\"key\":\"host\",\"op\":\"==\",\"val\":[\"ws9.qualified.com\"]},{\"key\":\"identifier\",\"op\":\"==\",\"val\":[\"{\\\"channel\\\":\\\"Visitors::WidgetChannel\\\"}\"]}],\"type\":\"and\"},\"smb\":[\"identifier\",\"message.0.event\",\"message.0.payload.botStep\",\"message.0.payload.conversationId\",\"message.0.payload.createdAt\",\"message.0.payload.data.chatExperience\",\"message.0.payload.data.conversationEntry.sender.role\",\"message.0.payload.data.conversationId\",\"message.0.payload.data.event\",\"message.0.payload.data.eventType\",\"message.0.payload.data.formJoinIDUnique\",\"message.0.payload.data.interactionModality\",\"message.0.payload.data.nameCaptureCampaignId\",\"message.0.payload.executionStep\",\"message.0.payload.id\",\"message.0.payload.modality\",\"message.0.payload.nodeId\",\"message.0.payload.plainText\",\"message.0.payload.rect.x1\",\"message.0.payload.rect.x2\",\"message.0.payload.rect.y1\",\"message.0.payload.rect.y2\",\"message.0.payload.replyToId\",\"message.0.payload.scriptId\",\"message.0.payload.slideId\",\"message.0.payload.slideTitle\",\"message.0.payload.source\",\"message.0.payload.textSnippet\",\"message.0.payload.type\",\"message.0.payload.url\",\"message.0.payload.x\",\"message.0.payload.y\",\"message.0.payload.zoom.height\",\"message.0.payload.zoom.width\",\"message.0.payload.zoom.x\",\"message.0.payload.zoom.y\",\"message.1.event\",\"message.1.payload.botStep\",\"message.1.payload.conversationId\",\"message.1.payload.createdAt\",\"message.1.payload.data.chatExperience\",\"message.1.payload.data.conversationEntry.sender.role\",\"message.1.payload.data.conversationId\",\"message.1.payload.data.event\",\"message.1.payload.data.eventType\",\"message.1.payload.data.formJoinIDUnique\",\"message.1.payload.data.interactionModality\",\"message.1.payload.data.nameCaptureCampaignId\",\"message.1.payload.executionStep\",\"message.1.payload.id\",\"message.1.payload.modality\",\"message.1.payload.nodeId\",\"message.0.payload.plainText\",\"message.1.payload.rect.x1\",\"message.1.payload.rect.x2\",\"message.1.payload.rect.y1\",\"message.1.payload.rect.y2\",\"message.1.payload.replyToId\",\"message.1.payload.scriptId\",\"message.1.payload.slideId\",\"message.1.payload.slideTitle\",\"message.1.payload.source\",\"message.1.payload.textSnippet\",\"message.1.payload.type\",\"message.1.payload.url\",\"message.1.payload.x\",\"message.1.payload.y\",\"message.1.payload.zoom.height\",\"message.1.payload.zoom.width\",\"message.1.payload.zoom.x\",\"message.1.payload.zoom.y\",\"message.2.event\",\"message.2.payload.botStep\",\"message.2.payload.conversationId\",\"message.2.payload.createdAt\",\"message.2.payload.data.chatExperience\",\"message.2.payload.data.conversationEntry.sender.role\",\"message.2.payload.data.conversationId\",\"message.2.payload.data.event\",\"message.2.payload.data.eventType\",\"message.2.payload.data.formJoinIDUnique\",\"message.2.payload.data.interactionModality\",\"message.2.payload.data.nameCaptureCampaignId\",\"message.2.payload.executionStep\",\"message.2.payload.id\",\"message.2.payload.modality\",\"message.2.payload.nodeId\",\"message.0.payload.plainText\",\"message.2.payload.rect.x1\",\"message.2.payload.rect.x2\",\"message.2.payload.rect.y1\",\"message.2.payload.rect.y2\",\"message.2.payload.replyToId\",\"message.2.payload.scriptId\",\"message.2.payload.slideId\",\"message.2.payload.slideTitle\",\"message.2.payload.source\",\"message.2.payload.textSnippet\",\"message.2.payload.type\",\"message.2.payload.url\",\"message.2.payload.x\",\"message.2.payload.y\",\"message.2.payload.zoom.height\",\"message.2.payload.zoom.width\",\"message.2.payload.zoom.x\",\"message.2.payload.zoom.y\"]}],\"richContentInference\":{\"cond\":[]}},\"rcv\":\"4.0.0.90\",\"valueProbes\":{\"enabled\":true,\"probes\":[{\"emit\":\"once_per_view\",\"id\":\"phone_validation_error\",\"selectors\":[\"div.phone-number--state-error ~ div\"]},{\"emit\":\"once_per_view\",\"id\":\"email_validation_error\",\"selectors\":[\"div.text-input--state-error ~ div.text-input--state-message\"]}]},\"webVitals\":{\"collectattr\":[\"connectionDuration\",\"dnsDuration\",\"elementRenderDelay\",\"firstByteToFCP\",\"interactionTime\",\"largestShiftTime\",\"largestShiftValue\",\"loadState\",\"navigationEntry.name\",\"resourceLoadDelay\",\"resourceLoadDuration\",\"timeToFirstByte\"],\"enabled\":true,\"enabledAdditionalMetrics\":true},\"scrollsCollection\":{\"enabled\":false,\"milestones\":[25,50,75,100]},\"formcc\":{\"en\":true,\"trackFields\":true,\"trackValidation\":true,\"fieldDenylist\":[\"password\",\"ssn\",\"cvv\",\"credit-card\",\"creditcard\",\"cc-number\"],\"collectattr\":[]},\"ipv4ipv6collection\":{\"enabled\":true}}"
+        },
+        {
+          "name": "ConvivaSamplingMode",
+          "value": "RCFG"
+        },
+        {
+          "name": "ak_ax",
+          "value": "-1"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1793714994931},\"expires\":1801490994931},\"gsid_dc\":{\"value\":{\"joinId\":\"yDvmWsqm4AxeeNzDpKgnJ32Wvt2LSk4e-g\",\"lastJoinedTimeMs\":1793714994939},\"expires\":1793715294939},\"last_convs\":{\"value\":[],\"expires\":1801490997006}}"
+        },
+        {
+          "name": "optimizely_data$$oeu1793714993174r0.29720569833235866$$22444972181$$layer_states",
+          "value": "[]"
+        },
+        {
+          "name": "optimizely_data$$oeu1793714993174r0.29720569833235866$$22444972181$$layer_map",
+          "value": "{}"
+        },
+        {
+          "name": "optimizely_data$$oeu1793714993174r0.29720569833235866$$22444972181$$tracker_optimizely",
+          "value": "{}"
+        },
+        {
+          "name": "optimizely_data$$oeu1793714993174r0.29720569833235866$$22444972181$$variation_map",
+          "value": "{}"
+        },
+        {
+          "name": "convivaOutQueue_CAT_post2",
+          "value": "[]"
+        },
+        {
+          "name": "optimizely_data$$pending_events",
+          "value": "{}"
+        },
+        {
+          "name": "ak_a",
+          "value": "2A9BD8D03D25AE228914D904CE7E0D4C"
+        },
+        {
+          "name": "optimizely_data$$oeu1793714993174r0.29720569833235866$$22444972181$$contextual_mab",
+          "value": "{}"
+        },
+        {
+          "name": "webactls",
+          "value": "{\"lastvaliddriver\":\"Typed/Bookmarked\"}"
+        },
+        {
+          "name": "ogs_uact",
+          "value": "{\"userId\":\"b0caff8f-583c-4d76-b1d0-504baf099d57\"}"
+        },
+        {
+          "name": "convivaOutQueue_CAT_post2.expires",
+          "value": "1856787007181"
+        },
+        {
+          "name": "li_adsId",
+          "value": "5a97b183-55fe-4214-b6cb-1690323aa72d"
+        },
+        {
+          "name": "optimizely_data$$oeu1793714993174r0.29720569833235866$$22444972181$$session_state",
+          "value": "{\"lastSessionTimestamp\":1793714993177,\"sessionId\":\"5b34b4b2-ffdd-4f14-bbfa-53ef4519d7d4\"}"
+        },
+        {
+          "name": "optimizely_data$$oeu1793714993174r0.29720569833235866$$22444972181$$visitor_profile",
+          "value": "{\"profile\":{\"visitorId\":\"oeu1793714993174r0.29720569833235866\",\"customBehavior\":{},\"first_session\":true,\"browserId\":\"gc\",\"browserVersion\":\"156.0.8078.4\",\"device\":\"desktop\",\"device_type\":\"desktop_laptop\",\"referrer\":null,\"source_type\":\"direct\"},\"metadata\":{\"visitorId\":{},\"events\":{},\"customBehavior\":{},\"first_session\":{},\"browserId\":{},\"browserVersion\":{},\"device\":{},\"device_type\":{},\"referrer\":{},\"source_type\":{}}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://a10681260716.cdn.optimizely.com",
+      "localStorage": [
+        {
+          "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$layer_map",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.salesforce.com_pending_events",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$tracker_optimizely",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$variation_map",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$contextual_mab",
+          "value": "{}"
+        },
+        {
+          "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$visitor_profile",
+          "value": "{\"profile\":{\"visitorId\":\"oeu1793714993174r0.29720569833235866\",\"customBehavior\":{},\"first_session\":true,\"browserId\":\"gc\",\"browserVersion\":\"156.0.8078.4\",\"device\":\"desktop\",\"device_type\":\"desktop_laptop\",\"referrer\":null,\"source_type\":\"direct\"},\"metadata\":{\"visitorId\":{},\"events\":{},\"customBehavior\":{},\"first_session\":{},\"browserId\":{},\"browserVersion\":{},\"device\":{},\"device_type\":{},\"referrer\":{},\"source_type\":{}}}"
+        },
+        {
+          "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$session_state",
+          "value": "{\"lastSessionTimestamp\":1793714993177,\"sessionId\":\"5b34b4b2-ffdd-4f14-bbfa-53ef4519d7d4\"}"
+        },
+        {
+          "name": "https://www.salesforce.com_oeu1793714993174r0.29720569833235866$$22444972181$$layer_states",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
